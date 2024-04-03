@@ -20,12 +20,12 @@
 </div>
 
 ## 🔭 현재 작업 중인 프로젝트
-- [프로젝트명 1](프로젝트 링크)
-- [프로젝트명 2](프로젝트 링크)
+- [CodeRoom](Open Link - Waiting...)
+- [MBTI Community](Open Link - Waiting...)
 
 ## 🌱 최근 배우고 있는 것
 - 최신 React 기능 (Hooks, Context API 등)
-- Node.js 및 Express로 백엔드 개발
+- Css 및 JavaScript 스타일링 강화 
 
 ## ✍️ 최근 블로그 포스트
 - [블로그 포스트 제목 1](포스트 링크)
