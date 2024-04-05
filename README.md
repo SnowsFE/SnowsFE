@@ -2,6 +2,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 
+<div align="center">
+  <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100">
+  <div style="animation:spin 4s linear infinite;">
+    <img src="YOUR_SVG_ANIMATION_LINK_HERE" width="100" height="100">
+  </div>
+</div>
+
+<style>
+@keyframes spin { 
+  100% { 
+    transform: rotate(360deg); 
+  } 
+}
+</style>
+
 <a href="https://github.com/won-jae-jang/code-room.git">
 <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%" />
 </a>
