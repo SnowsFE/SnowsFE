@@ -4,9 +4,6 @@
 
 <div align="center">
   <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100">
-  <div style="animation:spin 4s linear infinite;">
-    <img src="YOUR_SVG_ANIMATION_LINK_HERE" width="100" height="100">
-  </div>
 </div>
 
 <style>
