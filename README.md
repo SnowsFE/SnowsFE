@@ -3,8 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 
 <div align="center">
-  <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100 align-item="center">
+  <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100" style="margin-bottom: 20px;">
+</div>
 
+<div align="center" style="margin-top: 20px;">
 <a href="https://github.com/won-jae-jang/code-room.git">
 <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%" />
 </a>
