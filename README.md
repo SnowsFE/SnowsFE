@@ -34,4 +34,3 @@
 - LinkedIn: [LinkedIn 프로필](LinkedIn 프로필 링크)
 
 </div>
-](url)
