@@ -6,14 +6,6 @@
   <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100">
 </div>
 
-<style>
-@keyframes spin { 
-  100% { 
-    transform: rotate(360deg); 
-  } 
-}
-</style>
-
 <a href="https://github.com/won-jae-jang/code-room.git">
 <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%" />
 </a>
