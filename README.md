@@ -1,13 +1,10 @@
-<div align="center">
+[<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛<img src="https://holaworld.io/images/languages/react.svg" width="100" height="100">&fontAlign=70) 
 
-<div align="center">
-  <a href="https://github.com/won-jae-jang/code-room.git">
-    <img src="https://holaworld.io/images/languages/react.svg" width="100" height="100">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%">
   </a>
-</div>
 
 
 ## ⚙️ 보유 기술 ⚙️
@@ -37,3 +34,4 @@
 - LinkedIn: [LinkedIn 프로필](LinkedIn 프로필 링크)
 
 </div>
+](url)
