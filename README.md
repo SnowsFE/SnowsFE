@@ -6,6 +6,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%">
   </a>
 
+[성명]
+
+[연락처]: 전화번호 / 이메일
+
+[/GitHub 프로필 링크 (해당되는 경우)]
 
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
