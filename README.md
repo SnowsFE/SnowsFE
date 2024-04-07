@@ -6,12 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%">
   </a>
 
-[DoHyeon FE]
-
-[연락처]: 010 - 8331 - 1930 / snoerkr@gmail.com
-
-[/GitHub  (해당되는 경우)]
-
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -35,7 +29,9 @@
 - [블로그 포스트 제목 2](포스트 링크)
 
 ## 📫 연락 방법
-- 이메일: [snoerkr@gmail.com.com](mailto:your-snoerkr@gmail.com.com)
-- LinkedIn: [LinkedIn 프로필](LinkedIn 프로필 링크)
+
+- 연락처 : 010 - 8331 - 1930 
+- 이메일 : [snoerkr@gmail.com.com](mailto:your-snoerkr@gmail.com.com)
+- LinkedIn : [LinkedIn 프로필](LinkedIn 프로필 링크)
 
 </div>
