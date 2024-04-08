@@ -25,7 +25,7 @@
 - Css 및 JavaScript 스타일링 강화 
 
 ## ✍️ 최근 블로그 포스트
-- [Velog](포스트 링크)
+- [Velog] - https://velog.io/@snowfe/posts
 
 ## 📫 연락 방법
 
