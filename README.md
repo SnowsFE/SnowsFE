@@ -26,12 +26,11 @@
 
 ## ✍️ 최근 블로그 포스트
 - [Velog](포스트 링크)
-- [블로그 포스트 제목 2](포스트 링크)
 
 ## 📫 연락 방법
 
 - 연락처 : 010 - 8331 - 1930 
 - 이메일 : [snoerkr@gmail.com.com](mailto:your-snoerkr@gmail.com.com)
-- LinkedIn : [LinkedIn 프로필](LinkedIn 프로필 링크)
+- Youtube : [LinkedIn 프로필](LinkedIn 프로필 링크)
 
 </div>
