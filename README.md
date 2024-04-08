@@ -30,7 +30,7 @@
 ## 📫 연락 방법
 
 - 연락처 : 010 - 8331 - 1930 
-- 이메일 : [snoerkr@gmail.com.com](mailto:your-snoerkr@gmail.com.com)
-- Youtube : [LinkedIn 프로필](LinkedIn 프로필 링크)
+- 이메일 : [snoerkr@gmail.com.com] - mailto:your-snoerkr@gmail.com.com
+- Youtube : https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA
 
 </div>
