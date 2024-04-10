@@ -17,8 +17,8 @@
 </div>
 
 ## 🔭 현재 작업 중인 프로젝트
-- [CodeRoom](Open Link - Waiting...)
-- [MBTI Community](Open Link - Waiting...)
+- [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
+- [MBTI Community] - MBTI기반 커뮤니티
 
 ## 🌱 최근 배우고 있는 것
 - 최신 React 기능 (Hooks, Context API 등)
