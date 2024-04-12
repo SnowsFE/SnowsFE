@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
-![SnowsFE GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
+![SnowsFE GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true&theme=tokyonight)  
 
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=tokyonight&show_icons=true" width="42%">
