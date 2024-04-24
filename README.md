@@ -2,14 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true">
   </a>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&bg_color=60,87ceeb,c9e0e9&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&layout=compact&bg_color=60,87ceeb,c9e0e9&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
 
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
