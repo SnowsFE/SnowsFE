@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
   </a>
 
-  https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&layout=compact&bg_color=60,87ceeb,c9e0e9&title_color=000000&text_color=000000
+  github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&layout=compact&bg_color=60,87ceeb,c9e0e9&title_color=000000&text_color=000000
 
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
