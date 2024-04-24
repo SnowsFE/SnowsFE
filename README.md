@@ -6,8 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
   </a>
 
-  ![SnowsFE's github stats](https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true)
-
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
