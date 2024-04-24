@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 
- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 능력치 </h2>
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true">
