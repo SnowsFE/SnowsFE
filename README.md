@@ -8,7 +8,7 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true">
   </a>
 
-1
+
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
