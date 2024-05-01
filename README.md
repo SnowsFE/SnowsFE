@@ -22,14 +22,15 @@
 
 
 ## 🔭 현재 작업 중인 프로젝트
-- [CodeRoom] - 프로젝트, 스터디 모집 커뮤니티
+- [codeRoom] - 프로젝트🎥 / 스터디✏️ 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom]
 - [MBTI Community] - MBTI기반 커뮤니티
 
 
 
 ## 🌱 최근 배우고 있는 것
 - 최신 React 기능 (Hooks, Context API 등)
-- Css 및 JavaScript 스타일링 강화 
+- Css 및 JavaScript 스타일링 강화
+- NextJs, TypeScript 구조 및 문법
 
 
 
