@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true">
   </a>
-
+1
 
 ## ⚙️ 보유 기술 ⚙️
 <div style="display:flex; flex-direction:row;">
