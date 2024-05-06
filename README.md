@@ -22,8 +22,7 @@
 
 
 ## 🔭 현재 작업 중인 프로젝트
-- [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom]
-- [MBTI Community] - MBTI 커뮤니티
+- [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom] 完
 
 
 
