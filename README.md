@@ -26,7 +26,7 @@
 ## 🔭 현재 작업 중인 프로젝트
 - [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom] 完
 - [coin] - coin (매도 / 매수)
-- [MuziNut] - 음악 스트리밍
+- [MuziNut] - 음악 스트리밍 커뮤니티
 
 
 
