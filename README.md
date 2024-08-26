@@ -26,6 +26,7 @@
 ## 🔭 현재 작업 중인 프로젝트
 - [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom] 完
 - [MuziNut] - 음악 스트리밍 커뮤니티 [https://github.com/youngho3358/Muzinut?tab=readme-ov-file] 完
+- [MineData] - 외부 협업 준비중..
 
 
 
