@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
+<img src="https://img.shields.io/badge/Terbot-0088CC?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
 </div>
 
 
@@ -26,16 +31,14 @@
 ## 🔭 현재 작업 중인 프로젝트
 - [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom] 完
 - [MuziNut] - 음악 스트리밍 커뮤니티 [https://github.com/youngho3358/Muzinut?tab=readme-ov-file] 完
-- [MineData] - 외부 협업 준비중..
-
+- [CPVP.kr] - 마인크래프트 랭킹 웹 사이트 [https://cpvp.kr] 完
 
 
 ## 🌱 최근 배우고 있는 것
 - 최신 React 기능 (Hooks, Context API 등)
 - Css 및 JavaScript 스타일링 강화
 - NextJs, TypeScript 구조 및 문법
-
-
+- 
 
 ## ✍️ 최근 블로그 포스트
 - [Velog] - https://velog.io/@snowfe/posts
