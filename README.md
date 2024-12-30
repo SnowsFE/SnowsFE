@@ -22,8 +22,11 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
-<img src="https://img.shields.io/badge/Terbot-0088CC?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
+<img src="https://img.shields.io/badge/PM2-00C853?style=for-the-badge&logo=pm2&logoColor=white">
+<img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 
