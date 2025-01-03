@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 
