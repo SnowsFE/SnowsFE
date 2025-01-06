@@ -37,10 +37,9 @@
 
 
 ## 🌱 최근 배우고 있는 것
-- 최신 React 기능 (Hooks, Context API 등)
-- Css 및 JavaScript 스타일링 강화
-- NextJs, TypeScript 구조 및 문법
-- 
+- 2025 React 기능 (Hooks, Zustand)
+- Css 및 JavaScript 핸들러 강화
+
 
 ## ✍️ 최근 블로그 포스트
 - [Velog] - https://velog.io/@snowfe/posts
