@@ -37,7 +37,7 @@
 
 
 ## 🌱 최근 배우고 있는 것
-- 2025 React 기능 (Hooks, Zustand)
+- 2025 React 기능 (Zustand, React-Query, Suspense, ErrorBoundary)
 - Css 및 JavaScript 핸들러 강화
 
 
