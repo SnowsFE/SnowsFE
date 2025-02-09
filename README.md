@@ -31,9 +31,7 @@
 
 
 ## 🔭 현재 작업 중인 프로젝트
-- [codeRoom] - 프로젝트, 스터디 모집 커뮤니티 [https://github.com/SnowsFE/Portfolio-codeRoom] 完
-- [MuziNut] - 음악 스트리밍 커뮤니티 [https://github.com/youngho3358/Muzinut?tab=readme-ov-file] 完
-- [cpvp.kr] - 마인크래프트 랭킹 웹 사이트 [https://cpvp.kr] 完
+- [교육원 리뉴얼] 中
 
 
 ## 🌱 최근 배우고 있는 것
