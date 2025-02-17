@@ -52,8 +52,8 @@
 
 
 ## 🌱 최근 배우고 있는 것
-- 2025 React 기능 (Zustand, React-Query, Suspense, ErrorBoundary)
-- Css 및 JavaScript 핸들러 강화
+- 2025 React 기능 (Zustand, React-Query, ErrorBoundary)
+- API 수집 및 활용
 
 
 ## ✍️ 최근 블로그 포스트
