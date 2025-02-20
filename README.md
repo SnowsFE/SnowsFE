@@ -54,6 +54,7 @@
 ## 🌱 최근 배우고 있는 것
 - 2025 React 기능 (Zustand, React-Query, ErrorBoundary)
 - API 수집 및 활용
+- React Chakra UI + Framer Motion
 
 
 ## ✍️ 최근 블로그 포스트
