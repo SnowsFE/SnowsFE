@@ -55,6 +55,7 @@
 - 2025 React 기능 (Zustand, React-Query, ErrorBoundary)
 - API 수집 및 활용 [취업정보센터, 포트폴리오]
 - React Chakra UI + Framer Motion
+- Tailwind
 - MsSql 쿼리 튜닝
 
 
