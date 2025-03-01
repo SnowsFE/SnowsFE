@@ -56,6 +56,7 @@
 - API 수집 및 활용 [취업정보센터, 포트폴리오]
 - React Chakra UI + Framer Motion
 - Tailwind
+- Classic ASP
 - MsSql 쿼리 튜닝
 
 
