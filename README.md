@@ -58,7 +58,7 @@
 - React Chakra UI + Framer Motion
 - Tailwind
 - Classic ASP in js
-- MsSql 쿼리 튜닝
+- MsSql, MySql 쿼리 튜닝
 
 
 ## ✍️ 최근 블로그 포스트
