@@ -1,112 +1,94 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&text=Snows%20FE%20Developer&fontAlign=50&fontAlignY=40&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SnowsFE&fontSize=90&animation=fadeIn&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer&descAlign=70&descAlignY=44)
 
-  ### 🚗 코드로 세상을 달리는 프론트엔드 개발자 🚘
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnowsFE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E23&width=435&lines=프론트엔드+개발자;React+%26+Next.js+전문가;끊임없이+성장하는+개발자)](https://git.io/typing-svg)
   
 </div>
 
-## 🏆 GitHub 활동
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=blueberry&show_icons=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=blueberry&layout=compact&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SnowsFE&theme=nord&column=7&no-frame=true" />
 </div>
 
-## 🛠️ 기술 스택
+## 🧰 개발 도구 상자
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
-      <br>Node.js
-    </td>
-    <td align="center"  width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
-
-## 🔭 현재 작업 중인 프로젝트
-- 💼 교육원 리뉴얼 및 관리자 페이지 개선
-- 🌟 [Snoer Animation](https://snowsfe.github.io/by-Snoer/) 라이브러리 개발 중
-
-## 🌱 최근 배우고 있는 것
-```javascript
-const currentLearning = {
-  react: ["Zustand", "React-Query", "ErrorBoundary"],
-  frontend: ["Chakra UI", "Framer Motion", "Tailwind CSS"],
-  backend: ["Classic ASP in js"],
-  database: ["MsSql 쿼리 튜닝", "MySQL 최적화"]
-};
-```
-
-## 📊 주간 코딩 시간
-[![wakatime](https://wakatime.com/badge/user/018b8cbd-d9c7-4a5a-b6ec-b8c98185cc86.svg)](https://wakatime.com/@018b8cbd-d9c7-4a5a-b6ec-b8c98185cc86)
-
-## 📫 연락처
 <div align="center">
   
+  ### 🎨 Frontend
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+  ![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+  
+  ### 🛠 Backend
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PM2](https://img.shields.io/badge/PM2-00C853?style=for-the-badge&logo=pm2&logoColor=white)
+  
+  ### 🗄 Database
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ### ☁ Deployment & Infra
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+  ### 🤖 Other
+  ![Terbot](https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge)
+  
+</div>
+
+## 🚀 프로젝트 및 학습 현황
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=SnowsFE&repo=by-Snoer&theme=dark" />
+
+### 💼 진행 중인 프로젝트
+- 교육원 리뉴얼 및 관리자 페이지 개선
+- Snoer Animation 라이브러리 개발
+
+### 🔍 학습 중인 기술
+- React 최신 기능
+  - Zustand (상태 관리)
+  - React-Query (서버 상태 관리)
+  - ErrorBoundary (오류 처리)
+- API 연동 기술
+- 데이터베이스 쿼리 최적화
+- UI/UX 프레임워크
+
+### 🔗 나만의 리소스
+- [Snoer Animation](https://snowsfe.github.io/by-Snoer/) - 웹 애니메이션 라이브러리
+
+## 📝 최근 블로그 포스트
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowfe)](https://velog.io/@snowfe/posts)
+
+## 📞 연락처
+<div align="center">
+  
+  <a href="https://velog.io/@snowfe/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white" />
+  </a>
   <a href="mailto:snoerkr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@snowfe/posts">
-    <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
   
-  📞 010-8331-1930
+  📱 010-8331-1930
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&text=🚗%20🚘%20🚛&fontSize=30&fontAlign=70)
