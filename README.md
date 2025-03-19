@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌨️ Snow의 개발 세계
+# 🌨️ SnowsFE의 개발 세계
 
 ![프로필 배너](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SnowsFE&fontSize=70&animation=twinkling)
 
