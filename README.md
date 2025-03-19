@@ -46,7 +46,7 @@
 </div>
 
 ### 🌟 찾아봐도 없어서, 내가 직접 만든 리소스들
-<a href="https://snowsfe.github.io/by-Snoer/">애니메이션을 사용하고 싶다면? Snoer animation</a>
+<a href="https://snowsfe.github.io/by-Snoer/" target="_blank">애니메이션을 사용하고 싶다면? Snoer animation</a>
 
 ## 🔭 현재 작업 중인 프로젝트
 - [교육원 리뉴얼 및 관리자 페이지 개선]
