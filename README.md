@@ -6,8 +6,6 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnowsFE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E23&width=435&lines=프론트엔드+개발자;React+%26+Next.js+전문가;끊임없이+성장하는+개발자)](https://git.io/typing-svg)
-  
 </div>
 
 ## 🏆 GitHub 활동
