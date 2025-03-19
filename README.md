@@ -1,74 +1,147 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=fadeIn&section=header&text=Snow의%20프론트엔드%20세계&fontSize=40&fontAlignY=35&desc=한%20컴포넌트씩%20미래를%20만들어갑니다&descAlignY=55)
+# 🌨️ Snow의 개발 세계
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&weight=600&size=30&pause=1000&color=0A97F7&center=true&vCenter=true&random=false&width=600&lines=프론트엔드+개발자;리액트+전문가;NextJS+애호가;타입스크립트+마스터" alt="Typing SVG" />
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Snow's%20FE&fontSize=70&animation=twinkling)
 
-## 🏆 능력치
+> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=33" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=react&langs_count=4&hide_border=true" width="40%" />
-</p>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SnowsFE&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy" />
+## 👨‍💻 개발자 소개
 
-## ⚙️ 보유 기술 ⚙️
+안녕하세요! 프론트엔드 개발과 웹 기술에 열정을 가진 개발자입니다. 사용자 경험을 최우선으로 생각하며, 항상 최신 기술 트렌드를 따라가려고 노력합니다.
 
-<h3 align="center">🎨 프론트엔드 예술</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=nord&show_icons=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=nord&layout=compact" width="38%" />
+</div>
 
-<h3 align="center">🛠 백엔드 역량</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/PM2-00C853?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
-</p>
+## 🛠️ 기술 스택
 
-<h3 align="center">🗄 데이터베이스</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="SQL" />
+      <br>MS SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">☁ 배포 및 인프라</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+## 🚀 특별한 프로젝트
 
-## 🔭 현재 작업 중인 프로젝트
-- 🏫 교육원 리뉴얼 및 관리자 페이지 개선
-- 🚀 [Snoer Animation](https://snowsfe.github.io/by-Snoer/) - 직접 만든 애니메이션 라이브러리
+<details>
+<summary><b>🎨 Snoer Animation</b></summary>
+<div>
+<h4><a href="https://snowsfe.github.io/by-Snoer/" target="_blank">프로젝트 링크</a></h4>
+<p>직접 만든 애니메이션 라이브러리로, 웹 개발자들에게 쉽고 효과적인 애니메이션 솔루션을 제공합니다.</p>
+<p>기술: CSS, JavaScript</p>
+</div>
+</details>
 
-## 🌱 최근 배우고 있는 것
+<details>
+<summary><b>🏫 교육원 관리 시스템</b></summary>
+<div>
+<p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
+<p>기술: React, Node.js, MS SQL Server</p>
+</div>
+</details>
+
+## 🧠 학습 중인 기술
+
+```mermaid
+mindmap
+  root((2025 스킬))
+    React 심화
+      Zustand
+      React-Query
+      ErrorBoundary
+    UI/UX
+      Chakra UI
+      Framer Motion
+      Tailwind CSS
+    백엔드 스킬
+      Classic ASP in JS
+      쿼리 튜닝
+        MSSQL
+        MySQL
+    API 개발
+      취업정보센터
+      포트폴리오
 ```
-🔍 2025 React 트렌드 (Zustand, React-Query, ErrorBoundary)
-📊 API 수집 및 활용 [취업정보센터, 포트폴리오]
-✨ React Chakra UI + Framer Motion
-🎨 Tailwind CSS
-📜 Classic ASP in JS
-⚡ MsSql, MySql 쿼리 튜닝
-```
 
-## 📫 연락하기
+## 📝 블로그 & 소셜
+
+<p align="center">
+  <a href="https://velog.io/@snowfe/posts">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=snowfe" alt="Velog" height="35" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1iZXiMEallYFxN66sA1NwA?style=social" alt="YouTube" height="25" />
+  </a>
+</p>
+
+## 📞 연락처
+
+```javascript
+const contact = {
+  email: "snoerkr@gmail.com",
+  phone: "010-8331-1930",
+  social: {
+    velog: "https://velog.io/@snowfe/posts",
+    youtube: "https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA"
+  }
+};
+```
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-snoerkr@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:snoerkr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-010--8331--1930-green?style=for-the-badge&logo=whatsapp)](tel:01083311930)
-[![Velog](https://img.shields.io/badge/Velog-snowfe-20c997?style=for-the-badge&logo=velog)](https://velog.io/@snowfe/posts)
-[![Youtube](https://img.shields.io/badge/Youtube-Snow's_FE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA)
-  
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+
 </div>
