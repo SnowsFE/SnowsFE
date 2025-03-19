@@ -1,155 +1,103 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&text=Snows%20FE%20Developer&fontAlign=50&fontAlignY=40&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0e1116&height=200&section=header&text=SnowsFE&fontSize=70&fontColor=4285F4&fontAlign=70&fontAlignY=30&desc=차가운%20눈송이처럼%20독특한%20프론트엔드%20개발자&descSize=20&descAlign=70&descAlignY=55&animation=fadeIn)
 
-  ### 🚗 코드로 세상을 달리는 프론트엔드 개발자 🚘
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnowsFE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-## 🏆 GitHub 활동
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
-</div>
-
-## 📊 개발 활동 그래프
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SnowsFE&theme=redical)
-
-## 🛠️ 기술 스택
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" class="animate__animated animate__pulse animate__infinite" />
-</div>
+## 🏅 개발자 능력치
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" class="animate__animated animate__tada animate__infinite" />
-      <br>React
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="100%">
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" class="animate__animated animate__tada animate__infinite" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" class="animate__animated animate__tada animate__infinite" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" class="animate__animated animate__tada animate__infinite" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" class="animate__animated animate__tada animate__infinite" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" class="animate__animated animate__tada animate__infinite" />
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" class="animate__animated animate__tada animate__infinite" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" class="animate__animated animate__tada animate__infinite" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" class="animate__animated animate__tada animate__infinite" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" class="animate__animated animate__tada animate__infinite" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MS SQL" class="animate__animated animate__tada animate__infinite" />
-      <br>MS SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" class="animate__animated animate__tada animate__infinite" />
-      <br>Tailwind
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true" width="100%">
     </td>
   </tr>
 </table>
 
-## 🚀 퀘스트 진행 상황
-- [x] 교육원 리뉴얼 작업 중
-- [x] 관리자 페이지 개선
-- [ ] 2025 React 기능 마스터
-- [ ] API 수집 및 활용 시스템 구축
-- [ ] DB 쿼리 튜닝 스킬 업
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-## 🌟 내가 만든 특별한 아이템
-```
-🧪 Snoer Animation - 웹 애니메이션 마법 도구
-📚 포트폴리오 컬렉션 - 지식과 경험의 도서관
-🔮 API 허브 - 데이터의 문지기
-```
+## ⚔️ 기술 무기고 ⚔️
 
-## 🔭 현재 작업 중인 프로젝트
-- 💼 교육원 리뉴얼 및 관리자 페이지 개선
-- 🌟 [Snoer Animation](https://snowsfe.github.io/by-Snoer/) 라이브러리 개발 중
+### 🎨 프론트엔드 무기
+<p>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-## 🌱 최근 배우고 있는 것
+### 🛡️ 백엔드 방패
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-00C853?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
+
+### 🏺 데이터 저장고
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### ☁️ 구름 위의 성
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+## 🎭 내 창작물
+<p>
+  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+    <img src="https://img.shields.io/badge/Snoer_Animation-4285F4?style=for-the-badge&logo=css3&logoColor=white" alt="Snoer Animation">
+  </a>
+</p>
+
+## 🚧 현재 건설 중인 프로젝트
 ```javascript
-const currentLearning = {
-  react: ["Zustand", "React-Query", "ErrorBoundary"],
-  frontend: ["Chakra UI", "Framer Motion", "Tailwind CSS"],
-  backend: ["Classic ASP in js"],
-  database: ["MsSql 쿼리 튜닝", "MySQL 최적화"]
+const currentProjects = {
+  교육원_리뉴얼: {
+    status: "진행중",
+    기술스택: ["React", "Chakra UI", "Node.js"],
+    목표: "사용자 경험 개선 및 관리자 기능 강화"
+  }
 };
 ```
 
-## 📝 최근 블로그 포스트
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowfe)](https://velog.io/@snowfe/posts)
+## 📚 배우고 있는 스킬 트리
+```javascript
+const learningPath = [
+  "2025 React 기능 (Zustand, React-Query, ErrorBoundary)",
+  "API 수집 및 활용 [취업정보센터, 포트폴리오]",
+  "React Chakra UI + Framer Motion",
+  "Tailwind CSS",
+  "Classic ASP in JS",
+  "MsSql, MySql 쿼리 튜닝"
+];
+```
 
-## 📊 주간 코딩 시간
-[![wakatime](https://wakatime.com/badge/user/018b8cbd-d9c7-4a5a-b6ec-b8c98185cc86.svg)](https://wakatime.com/@018b8cbd-d9c7-4a5a-b6ec-b8c98185cc86)
-
-## 📫 연락처
-<div align="center">
-  
+## 📮 연락처
+<p>
   <a href="mailto:snoerkr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" class="animate__animated animate__heartBeat animate__infinite" />
+    <img src="https://img.shields.io/badge/snoerkr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:01083311930">
+    <img src="https://img.shields.io/badge/010--8331--1930-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="https://velog.io/@snowfe/posts">
-    <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white" class="animate__animated animate__heartBeat animate__infinite" />
+    <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" class="animate__animated animate__heartBeat animate__infinite" />
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  
-  📞 010-8331-1930
-  
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0e1116&height=100&section=footer&text=🚗🚘🚛&fontSize=20&fontColor=4285F4&fontAlign=80&rotate=0&animation=fadeIn)
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=80" />
-</div>
-
-<!-- 애니메이션을 위한 스타일 시트 -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-
-<!-- 모든 animate__animated 클래스를 가진 요소에 애니메이션 적용 -->
-<style>
-  .animate__animated {
-    display: inline-block !important;
-  }
-</style>
