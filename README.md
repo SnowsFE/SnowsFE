@@ -1,74 +1,120 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=200&section=header&text=SnowsFE%20Developer&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 능력치 </h2>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=highcontrast&show_icons=true" width="42%">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=highcontrast&show_icons=true">
+<h1>🚗 Welcome to SnowsFE's Garage 🚘</h1>
+
+<p align="center">
+  <a href="https://velog.io/@snowfe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/></a>
+  <a href="mailto:snoerkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<h2>🏆 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" width="41%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnowsFE&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="90%" alt="Trophy"/>
+</p>
+
+</div>
+
+---
+
+<h2 align="center">⚡ 기술 스택 ⚡</h2>
+
+<h3>🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+<h3>⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx,express" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="40"/>
+</p>
+
+<h3>🗄️ Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" />
+</p>
+
+<h3>☁️ DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,ubuntu,vscode" />
+</p>
+
+<h3>🤖 Other</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge" alt="Terbot"/>
+</p>
+
+---
+
+<h2 align="center">💡 프로젝트 & 활동</h2>
+
+<details>
+<summary>🌈 직접 만든 리소스</summary>
+<br>
+<div align="center">
+  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+    <img src="https://img.shields.io/badge/Snoer_Animation-FF5722?style=for-the-badge&logo=css3&logoColor=white" alt="Snoer Animation"/>
   </a>
+  <p>애니메이션을 사용하고 싶다면? Snoer animation 라이브러리 사용하기</p>
+</div>
+</details>
 
+<details>
+<summary>🔭 현재 작업 중인 프로젝트</summary>
+<br>
+<div align="center">
+  <h4>교육원 리뉴얼 및 관리자 페이지 개선</h4>
+  <p>교육기관 웹사이트 개편 및 관리자 시스템 효율화 작업 진행 중</p>
+</div>
+</details>
 
-## ⚙️ 보유 기술 ⚙️
-### 🎨 Frontend
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<details>
+<summary>🌱 최근 배우고 있는 것</summary>
+<br>
+<div>
+  <ul align="center" style="list-style-position: inside;">
+    <li>📘 2025 React 기능 (Zustand, React-Query, ErrorBoundary)</li>
+    <li>📊 API 수집 및 활용 [취업정보센터, 포트폴리오]</li>
+    <li>🎨 React Chakra UI + Framer Motion</li>
+    <li>💅 Tailwind CSS</li>
+    <li>🗄️ Classic ASP in JS</li>
+    <li>📝 MsSql, MySql 쿼리 튜닝</li>
+  </ul>
+</div>
+</details>
+
+<details>
+<summary>✍️ 최근 블로그 포스트</summary>
+<br>
+<div align="center">
+  <a href="https://velog.io/@snowfe/posts">
+    <img src="https://img.shields.io/badge/최신_게시물_보러가기-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+  </a>
+</div>
+</details>
+
+---
+
+<div align="center">
+  <h2>📞 연락처</h2>
+  <p>
+    <img src="https://img.shields.io/badge/010--8331--1930-0077B5?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone"/>
+    <a href="mailto:snoerkr@gmail.com">
+      <img src="https://img.shields.io/badge/snoerkr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA">
+    <img src="https://img.shields.io/badge/YouTube_채널-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
-### 🛠 Backend
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/PM2-00C853?style=for-the-badge&logo=pm2&logoColor=white">
-</div>
-
-### 🗄 Database
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</div>
-
-### ☁ Deployment & Infra
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
-
-### 🤖 Other
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
-</div>
-
-### 🌟 찾아봐도 없어서, 내가 직접 만든 리소스들
-<div style="display:flex; flex-direction:row; border-bottom: 1px solid #d8dee4;">
-<a href="https://snowsfe.github.io/by-Snoer/" target="_blank">애니메이션을 사용하고 싶다면? Snoer animation</a>
-</div>
-
-## 🔭 현재 작업 중인 프로젝트
-- [교육원 리뉴얼 및 관리자 페이지 개선]
-
-## 🌱 최근 배우고 있는 것
-- 2025 React 기능 (Zustand, React-Query, ErrorBoundary)
-- API 수집 및 활용 [취업정보센터, 포트폴리오]
-- React Chakra UI + Framer Motion
-- Tailwind Css
-- Classic ASP in js
-- MsSql, MySql 쿼리 튜닝
-
-
-## ✍️ 최근 블로그 포스트
-- [Velog] - https://velog.io/@snowfe/posts
-
-
-## 📫 연락 방법
-
-- 연락처 : 010 - 8331 - 1930 
-- 이메일 : [snoerkr@gmail.com.com] - mailto:your-snoerkr@gmail.com.com
-- Youtube : https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,100:3498db&height=150&section=footer)
