@@ -45,13 +45,11 @@
   <img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge&logo=data:image/png;base64,[base64 이미지 데이터]" alt="Terbot">
 </div>
 
-
+### 🌟 찾아봐도 없어서, 내가 직접 만든 리소스들
+<a href="https://snowsfe.github.io/by-Snoer/">애니메이션을 사용하고 싶다면? Snoer animation</a>
 
 ## 🔭 현재 작업 중인 프로젝트
 - [교육원 리뉴얼 및 관리자 페이지 개선]
-- [Css-animation-collection]
-- dungeonRPG
-
 
 ## 🌱 최근 배우고 있는 것
 - 2025 React 기능 (Zustand, React-Query, ErrorBoundary)
