@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8e44ad,100:3498db&height=150&section=header&text=SnowsFE&fontSize=70&fontColor=ffffff&animation=blinking" />
+    ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 </div>
 
 <p align="center">
@@ -7,10 +7,6 @@
 </p>
 
 <div align="center">
-  
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@snowfe/posts)
-  [![Gmail](https://img.shields.io/badge/snoerkr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snoerkr@gmail.com)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA)
   
 </div>
 
