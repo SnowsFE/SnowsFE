@@ -8,10 +8,10 @@
 
 ## 👨‍💻 개발자 소개
 
-안녕하세요! 프론트엔드 개발을 기반으로 MySQL, 백엔드 아키텍처, 네트워크 프로토콜까지 심층적으로 탐구하며, 풀스택 역량을 확장해 나가는 개발자입니다. <br/>
+안녕하세요! 프론트엔드 개발을 기반으로 MySQL, 백엔드 아키텍처, 네트워크 프로토콜까지 심층적으로 탐구하며, 풀스택 역량을 확장해 나가는 개발자입니다.
 UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패러다임을 빠르게 습득하여 실무에 적용하는 데 집중하고 있습니다.
 
-<div align="center">
+<div align="center word-break:keep-all;">
   <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&&theme=nord&show_icons=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=nord&layout=compact" width="38%" />
 </div>
