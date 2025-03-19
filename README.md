@@ -2,8 +2,6 @@
   
 # 🌨️ Snow의 개발 세계
 
-![프로필 배너](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SnowsFE&fontSize=70&animation=twinkling)
-
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 
 </div>
