@@ -1,106 +1,103 @@
 <div align="center">
-  
-# 🚀 SnowsFE
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnowsFE&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/SnowsFE)
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8e44ad,100:3498db&height=150&section=header&text=SnowsFE&fontSize=70&fontColor=ffffff&animation=blinking" />
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&width=435&lines=Front-end+Developer;Creative+Problem+Solver;UI%2FUX+Enthusiast" alt="Typing SVG" />
-
-## 📊 GitHub 활동
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=tokyonight&hide_border=true&layout=compact" />
-  <img width="70%" src="https://streak-stats.demolab.com/?user=SnowsFE&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 💼 기술 스택
-
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
-        <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="30" alt="pm2"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Database & DevOps</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 프로젝트 & 학습
-
-<details>
-  <summary><b>🚀 현재 프로젝트</b></summary>
-  <br>
-  <ul>
-    <li>교육원 리뉴얼 및 관리자 페이지 개선</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>📚 학습 중인 기술</b></summary>
-  <br>
-  <ul>
-    <li>2025 React 기능 (Zustand, React-Query, ErrorBoundary)</li>
-    <li>API 수집 및 활용 [취업정보센터, 포트폴리오]</li>
-    <li>React Chakra UI + Framer Motion</li>
-    <li>Tailwind CSS</li>
-    <li>Classic ASP in js</li>
-    <li>MsSql, MySql 쿼리 튜닝</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎨 오리지널 리소스</b></summary>
-  <br>
-  <ul>
-    <li><a href="https://snowsfe.github.io/by-Snoer/">Snoer Animation</a> - 직접 만든 애니메이션 라이브러리</li>
-  </ul>
-</details>
-
----
-
-## 📝 블로그 및 연락처
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3498DB&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver" alt="Typing SVG" />
+</p>
 
 <div align="center">
   
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@snowfe/posts)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snoerkr@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA)
-  
-📞 연락처: 010-8331-1930
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@snowfe/posts)
+  [![Gmail](https://img.shields.io/badge/snoerkr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snoerkr@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA)
   
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub 통계
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true&theme=prussian&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&hide_border=true&theme=prussian&layout=compact" />
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 기술 스택
+
+### 🌐 Frontend
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</div>
+
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
+</div>
+
+### 🔧 DevOps & Tools
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> 학습 및 프로젝트
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">🔭 현재 작업 중인 프로젝트</h3>
+        <div align="center">
+          <p>교육원 리뉴얼 및 관리자 페이지 개선</p>
+        </div>
+      </td>
+      <td>
+        <h3 align="center">🎨 오리지널 리소스</h3>
+        <div align="center">
+          <p><a href="https://snowsfe.github.io/by-Snoer/">Snoer Animation</a></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🌱 학습 중인 기술
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> 2025 React 기능 (Zustand, React-Query, ErrorBoundary)</td>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> API 수집 및 활용</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> React Chakra UI + Framer Motion</td>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> Classic ASP in js</td>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="20px"> MsSql, MySql 쿼리 튜닝</td>
+    </tr>
+  </table>
+</div>
+
+## 📫 연락처
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/010--8331--1930-2ca5e0?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    <a href="mailto:snoerkr@gmail.com">
+      <img src="https://img.shields.io/badge/snoerkr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer&fontSize=70" />
 </div>
