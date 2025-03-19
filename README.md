@@ -55,12 +55,12 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <br>REST API
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="SQL" />
-      <br>MS SQL
+      <br>My SQL
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
