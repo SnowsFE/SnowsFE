@@ -18,6 +18,11 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=nord&layout=compact" width="38%" />
 </div>
 
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnowsFE&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&layout=compact&theme=default" />
+</div>
+
 <br/>
 
 ## 🛠️ 기술 스택
