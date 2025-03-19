@@ -116,10 +116,15 @@ mindmap
       취업정보센터
       포트폴리오
 ```
+<br/>
 
 ## 📝 블로그 & 소셜
 
 <p align="center">
+  <a href="https://velog.io/@snowfe/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=snowfe" alt="Velog's GitHub stats" />
+  </a>
+  <br />
   <a href="https://velog.io/@snowfe/posts">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=snowfe" alt="Velog" height="35" />
   </a>
@@ -127,6 +132,8 @@ mindmap
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1iZXiMEallYFxN66sA1NwA?style=social" alt="YouTube" height="25" />
   </a>
 </p>
+
+<br/>
 
 ## 📞 연락처
 
