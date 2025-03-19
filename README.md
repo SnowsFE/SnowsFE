@@ -48,13 +48,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,gcp,ubuntu,vscode" />
 </p>
 
-<h3>🤖 Other</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Terbot-4285F4?style=for-the-badge" alt="Terbot"/>
-</p>
-
----
-
 <h2 align="center">💡 프로젝트 & 활동</h2>
 
 <details>
