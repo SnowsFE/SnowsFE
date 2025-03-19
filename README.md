@@ -11,12 +11,9 @@
 ## 👨‍💻 개발자 소개
 
 안녕하세요!  
-프론트엔드 개발을 기반으로 **MySQL, 백엔드 아키텍처, 네트워크 프로토콜**까지  
-심층적으로 탐구하며, **풀스택 역량을 확장해 나가는 개발자**입니다.  
+프론트엔드 개발을 기반으로 **MySQL, 백엔드 아키텍처, 네트워크 프로토콜**까지 심층적으로 탐구하며, **풀스택 역량을 확장해 나가는 개발자**입니다.  
 
-UX 최적화를 최우선으로 고려하며,  
-최신 기술 스택과 개발 패러다임을 빠르게 습득하여  
-실무에 적용하는 데 집중하고 있습니다.  
+UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패러다임을 빠르게 습득하여 실무에 적용하는 데 집중하고 있습니다.  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
@@ -96,11 +93,14 @@ UX 최적화를 최우선으로 고려하며,
 <details>
 <summary><b>🏫 교육원 관리 시스템</b></summary>
 <div>
+  <br/>
 <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
+  <br/>
 <p>기술: React, Node.js, MS SQL Server</p>
 </div>
 </details>
 
+<br/>
 ## 🧠 학습 중인 기술
 
 ```mermaid
