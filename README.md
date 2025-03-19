@@ -1,6 +1,5 @@
 <div align="center">
     ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3498DB&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver" alt="Typing SVG" />
