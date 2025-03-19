@@ -76,12 +76,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 ## 🚀 특별한 프로젝트
 
 <details>
-<summary><b>🎨 Snoer Animation</b></summary>
-<div>
-<h4><a href="https://snowsfe.github.io/by-Snoer/" target="_blank">프로젝트 링크</a></h4>
-<p>직접 만든 애니메이션 라이브러리로, 웹 개발자들에게 쉽고 효과적인 애니메이션 솔루션을 제공합니다.</p>
-<p>기술: CSS, JavaScript</p>
-</div>
+<summary><b><a href="https://snowsfe.github.io/by-Snoer/" target="_blank">🎨 Snoer Animation</a></b></summary>
 </details>
 
 <details>
