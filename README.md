@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌨️ SnowsFE의 개발 세계
+# 🌨️ SnowsFE
 
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 
@@ -55,7 +55,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo_2022.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
