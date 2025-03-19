@@ -82,8 +82,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 ## 🚀 특별한 프로젝트
 
 <details>
-<summary><b>🎨 찾아도 없어서 직접 만든! Snoer Animation</b></summary>
-  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank"></a>
+<summary><b><a href="https://snowsfe.github.io/by-Snoer/" target="_blank">🎨 누구나 사용할 수 있는 Css Animation 효과! - by_Snoer</a></b></summary>
 </details>
 
 <details>
