@@ -88,30 +88,22 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-# 🚀 프로젝트 쇼케이스
+## 🌟 주요 프로젝트
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 CSS Animation 컬렉션</h3>
-      <p align="center">
-        <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-바로가기-4285F4?style=for-the-badge" alt="Demo" />
-        </a>
-      </p>
-      <p align="center">누구나 사용할 수 있는 CSS Animation 효과 라이브러리</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏫 교육원 관리 시스템</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-      </p>
-      <p align="center">교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-    </td>
-  </tr>
-</table>
+<div style="display: inline-block; width: 100%; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
+  <h3>🎨 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">CSS Animation 갤러리</a></h3>
+  <p>누구나 사용할 수 있는 CSS Animation 효과! - by_Snoer</p>
+</div>
+
+<div style="display: inline-block; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; border-radius: 8px; background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);">
+  <h3>🏫 교육원 관리 시스템</h3>
+  <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
+  <p>
+    <span style="background-color: #61DAFB; color: black; padding: 3px 6px; border-radius: 3px; font-size: 12px;">React</span>
+    <span style="background-color: #339933; color: white; padding: 3px 6px; border-radius: 3px; font-size: 12px;">Node.js</span>
+    <span style="background-color: #CC2927; color: white; padding: 3px 6px; border-radius: 3px; font-size: 12px;">MS SQL Server</span>
+  </p>
+</div>
 
 <br/>
 
