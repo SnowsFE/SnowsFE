@@ -88,20 +88,28 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-## 🚀 특별한 프로젝트
+# ✨ 특별한 프로젝트 ✨
+
+<div align="center">
+
+## 🌈 포트폴리오 하이라이트
+
+</div>
 
 <details>
-<summary><b><a href="https://snowsfe.github.io/by-Snoer/" target="_blank">🎨 누구나 사용할 수 있는 Css Animation 효과! - by_Snoer</a></b></summary>
+<summary><h3>🎨 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">CSS Animation 갤러리 - by_Snoer</a></h3></summary>
+<blockquote>
+누구나 쉽게 사용할 수 있는 다양한 CSS 애니메이션 효과 모음집입니다.
+</blockquote>
 </details>
 
 <details>
-<summary><b>🏫 교육원 관리 시스템</b></summary>
-<div>
-  <br/>
+<summary><h3>🏫 교육원 통합 관리 시스템</h3></summary>
+<blockquote>
 <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-  <br/>
-<p>기술: React, Node.js, MS SQL Server</p>
-</div>
+<br/>
+<p><code>React</code> <code>Node.js</code> <code>MS SQL Server</code></p>
+</blockquote>
 </details>
 
 <br/>
