@@ -88,42 +88,42 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-<div align="center">
-  <h1>🎭 𝕊𝕡𝕖𝕔𝕚𝕒𝕝 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h1>
-  <p><i>혁신적인 웹 경험을 창조합니다</i></p>
-  <br/>
-</div>
-
-<br/>
+# 🌠 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝚂𝙷𝙾𝚆𝙲𝙰𝚂𝙴 🌠
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/master/svg-loaders/bars.svg" width="60" alt="SVG Loader">
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 </div>
 
-<br/>
+<table>
+<tr>
+<td>
 
-<div style="perspective: 1000px;">
-  <div style="transform: rotateY(10deg); transform-style: preserve-3d; box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px; border-radius: 10px; padding: 20px; margin-bottom: 50px; background: linear-gradient(135deg, #6e8efb, #a777e3);">
-    <h2>🎨 𝒜𝓃𝒾𝓂𝒶𝓉𝒾𝑜𝓃 𝒢𝒶𝓁𝓁𝑒𝓇𝓎</h2>
-    <p>
-      <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-        <b>누구나 사용할 수 있는 Css Animation 효과! - by_Snoer</b>
-      </a>
-    </p>
-    <p>최신 CSS 애니메이션 트렌드를 한눈에 보고 적용해보세요.</p>
-  </div>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝐂𝐒𝐒 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐛
 
-  <div style="transform: rotateY(-10deg); transform-style: preserve-3d; box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #11998e, #38ef7d);">
-    <h2>🏫 𝐸𝒹𝓊𝒸𝒶𝓉𝒾𝑜𝓃 𝒫𝑜𝓇𝓉𝒶𝓁</h2>
-    <p><b>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</b></p>
-    <br/>
-    <p>
-      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">React</span>
-      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">Node.js</span>
-      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">MS SQL Server</span>
-    </p>
-  </div>
+<div align="center">
+<a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8_by__Snoer-Visit_Gallery-FF00FF?style=for-the-badge" alt="Visit Gallery" />
+</a>
 </div>
+
+> *누구나 사용할 수 있는 CSS Animation 컬렉션 by-Snoer*
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="30"> 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐫𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦
+
+> *교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트*
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
