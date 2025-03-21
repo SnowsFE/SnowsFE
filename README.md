@@ -163,7 +163,7 @@ mindmap
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=snowfe" alt="Velog" height="35" />
   </a>
   <a href="https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA">
-    <img src="https://img.shields.io/badge/snowfe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35" />
+    <img src="https://img.shields.io/badge/▶SnowFE-YouTube-4169E1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35" />
   </a>
 </p>
 
