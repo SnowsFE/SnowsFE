@@ -88,52 +88,42 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-<div align="center">
-
-# 🌠 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝚂𝙷𝙾𝚆𝙲𝙰𝚂𝙴 🌠
+# 🚀 Portfolio
 
 <div align="center">
+
+*"창의성은 제한 없는 상상력의 표현이다"*
+
+</div>
+
+---
+
+<div align="center">
+  <img width="700" height="0">
+</div>
+
+## 💫 Featured Projects
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
+  <h3>🎨 CSS Animation Library</h3>
   
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank"><strong>누구나 사용할 수 있는 CSS Animation 효과! - by_Snoer</strong></a>
+  
+  <p>다양한 웹 애니메이션 효과를 모아놓은 오픈 갤러리입니다. 웹 디자인에 생동감을 더해보세요.</p>
 </div>
 
-<table>
-<tr>
-<td>
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝐂𝐒𝐒 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐛
-
-<div align="center">
-<a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8E%A8_by__Snoer-Visit_Gallery-FF00FF?style=for-the-badge" alt="Visit Gallery" />
-</a>
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
+  <h3>🏫 교육원 관리 시스템</h3>
+  
+  <p><strong>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</strong></p>
+  
+  <p>기술 스택:</p>
+  <ul>
+    <li>⚛️ React - 모던 UI 컴포넌트</li>
+    <li>🟢 Node.js - 백엔드 API 서비스</li>
+    <li>🛢️ MS SQL Server - 데이터베이스</li>
+  </ul>
 </div>
-
-> *누구나 사용할 수 있는 CSS Animation 컬렉션*
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="30"> 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐫𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦
-
-<div align="center">
-
-![React](https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/🟢_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/🛢️_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-</div>
-
-> *교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트*
-
-</td>
-</tr>
-
-</table>
 <br/>
 
 ## 🧠 학습 중인 기술
