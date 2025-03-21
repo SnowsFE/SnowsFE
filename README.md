@@ -88,28 +88,25 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-# 2025 개발 일지 📝
+# 2025 개발 일지
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎨 CSS 애니메이션 라이브러리</h3>
-      <p><b>by-Snoer</b> - 누구나 쉽게 활용할 수 있는 CSS 애니메이션!</p>
-      <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-        <img src="https://img.shields.io/badge/갤러리_바로가기-FF00FF?style=for-the-badge" alt="Visit Gallery" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎓 교육 포털 시스템</h3>
-      <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-        <img src="https://img.shields.io/badge/Classic_ASP-003B57?style=flat-square&logo=microsoft&logoColor=white" alt="Classic ASP"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="padding: 15px; margin-bottom: 20px; border-left: 5px solid #8A2BE2;">
+  <h2>🎨 CSS 애니메이션 라이브러리</h2>
+  <p><b>by-Snoer</b> - 누구나 쉽게 활용할 수 있는 CSS 애니메이션!</p>
+  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+    <img src="https://img.shields.io/badge/by--Snoer-바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
+  </a>
+</div>
+
+<div style="padding: 15px; margin-bottom: 20px; border-left: 5px solid #CC2927;">
+  <h2>🎓 교육 포털 시스템</h2>
+  <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+    <img src="https://img.shields.io/badge/Classic_ASP-003B57?style=for-the-badge&logo=microsoft&logoColor=white" alt="Classic ASP"/>
+  </div>
+</div>
 
 <br/>
 
