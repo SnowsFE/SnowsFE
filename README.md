@@ -89,12 +89,14 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 <br/>
 
 # 📔 2025 개발 일지
-<div align="center">
+
+<div style="width:100%; max-width:100%;" align="center">
   <img src="https://img.shields.io/badge/📘_개발_프로젝트_기록-2025-3498db?style=for-the-badge" alt="Development Projects"/>
   <br/>
-<table width="100%">
+  
+<table style="width:100%; border-collapse:collapse; table-layout:fixed;">
   <tr>
-    <td width="50%">
+    <td style="width:50%; padding:10px;">
       <h3 align="center">🎨 CSS 애니메이션 라이브러리</h3>
       <p align="center"><b>by-Snoer</b></p>
       <p align="center"><i>"누구나 쉽게 활용할 수 있는 CSS 애니메이션!"</i></p>
@@ -107,7 +109,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
         <code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
       </p>
     </td>
-    <td width="50%">
+    <td style="width:50%; padding:10px;">
       <h3 align="center">🎓 교육 포털 시스템</h3>
       <p align="center"><b>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</b></p>
       <p align="center">
