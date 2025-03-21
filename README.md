@@ -89,7 +89,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 <br/>
 
 # 📔 2025 개발 일지
-
+<br/>
 <div align="center">
   <p><img src="https://img.shields.io/badge/📘_개발_프로젝트_기록-2025-3498db?style=for-the-badge" alt="Development Projects"/></p>
 <table>
