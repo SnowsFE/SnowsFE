@@ -88,55 +88,51 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-# ✨ 2025 개발 일지 ✨
+# 📔 2025 개발 일지
 
 <div align="center">
-  
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
+  <img src="https://img.shields.io/badge/🚀_개발자_기록-2025-61DAFB?style=for-the-badge" alt="Developer Journal"/>
 </div>
 
-## 🎨 CSS 애니메이션 라이브러리
+---
 
-<div align="center">
-  
-### **[by-Snoer](https://snowsfe.github.io/by-Snoer/)**
-  
+<details open>
+<summary>🎨 CSS 애니메이션 라이브러리</summary>
+<div style="padding: 1em; margin-left: 1em; border-left: 4px solid #8A2BE2;">
+
+### [by-Snoer](https://snowsfe.github.io/by-Snoer/)
+
 > *"누구나 쉽게 활용할 수 있는 CSS 애니메이션!"*
 
 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
 <img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-갤러리_바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
 </a>
 
-</div>
-
 <div align="right">
-  
-`#애니메이션` `#CSS` `#웹디자인`
-  
+<code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
 </div>
+</div>
+</details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+---
 
-## 🎓 교육 포털 시스템
+<details open>
+<summary>🎓 교육 포털 시스템</summary>
+<div style="padding: 1em; margin-left: 1em; border-left: 4px solid #F7DF1E;">
+
+### 교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트
 
 <div align="center">
-  
-### **교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트**
-
 <img src="https://img.shields.io/badge/🟡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/🟢_MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
 <img src="https://img.shields.io/badge/🔵_Classic_ASP-003B57?style=for-the-badge&logo=microsoft&logoColor=white" alt="Classic ASP"/>
-
 </div>
 
 <div align="right">
-  
-`#웹개발` `#데이터베이스` `#시스템개선`
-  
+<code>#웹개발</code> <code>#데이터베이스</code> <code>#시스템개선</code>
 </div>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+</div>
+</details>
 
 <br/>
 
