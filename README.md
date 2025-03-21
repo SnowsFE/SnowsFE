@@ -88,40 +88,42 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-# ✨ 2025 개발 일지 ✨
+# 📅 2025 개발 일지
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📘_개발_프로젝트_기록-2025-3498db?style=for-the-badge" alt="Development Projects"/>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 CSS 애니메이션 라이브러리</h3>
-      <p align="center"><b>by-Snoer</b></p>
-      <p align="center"><i>"누구나 쉽게 활용할 수 있는 CSS 애니메이션!"</i></p>
-      <p align="center">
-        <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-갤러리_바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
-        </a>
-      </p>
-      <p align="right">
-        <code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 교육 포털 시스템</h3>
-      <p align="center"><b>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</b></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🟡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/🟢_MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-        <img src="https://img.shields.io/badge/🔵_Classic_ASP-003B57?style=for-the-badge&logo=microsoft&logoColor=white" alt="Classic ASP"/>
-      </p>
-      <p align="right">
-        <code>#웹개발</code> <code>#데이터베이스</code> <code>#시스템개선</code>
-      </p>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/⏱️_개발_타임라인-2025-ff6b6b?style=for-the-badge" alt="Development Timeline"/>
 </div>
+
+## 프로젝트 타임라인
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎨 CSS 애니메이션 라이브러리 - by-Snoer                     │
+│  ───────────────────────────────────────────────           │
+│                                                             │
+│  > "누구나 쉽게 활용할 수 있는 CSS 애니메이션!"               │
+│                                                             │
+│  🔗 https://snowsfe.github.io/by-Snoer/                     │
+│                                                             │
+│  #애니메이션 #CSS #웹디자인                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓 교육 포털 시스템                                         │
+│  ───────────────────────────────────────────────           │
+│                                                             │
+│  > 교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트      │
+│                                                             │
+│  🛠️ JavaScript | MSSQL | Classic ASP                        │
+│                                                             │
+│  #웹개발 #데이터베이스 #시스템개선                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
