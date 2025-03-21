@@ -105,7 +105,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 <summary><h3>🏫 교육원 통합 관리 시스템</h3></summary>
 <blockquote>
 <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-<br/>
 </blockquote>
 </details>
 
