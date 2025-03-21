@@ -88,42 +88,43 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-# 🚀 Portfolio
+<div align="center">
+  <h1>🎭 𝕊𝕡𝕖𝕔𝕚𝕒𝕝 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h1>
+  <p><i>혁신적인 웹 경험을 창조합니다</i></p>
+  <br/>
+</div>
+
+<br/>
 
 <div align="center">
-
-*"창의성은 제한 없는 상상력의 표현이다"*
-
+  <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/master/svg-loaders/bars.svg" width="60" alt="SVG Loader">
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img width="700" height="0">
+<div style="perspective: 1000px;">
+  <div style="transform: rotateY(10deg); transform-style: preserve-3d; box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px; border-radius: 10px; padding: 20px; margin-bottom: 50px; background: linear-gradient(135deg, #6e8efb, #a777e3);">
+    <h2>🎨 𝒜𝓃𝒾𝓂𝒶𝓉𝒾𝑜𝓃 𝒢𝒶𝓁𝓁𝑒𝓇𝓎</h2>
+    <p>
+      <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+        <b>누구나 사용할 수 있는 Css Animation 효과! - by_Snoer</b>
+      </a>
+    </p>
+    <p>최신 CSS 애니메이션 트렌드를 한눈에 보고 적용해보세요.</p>
+  </div>
+
+  <div style="transform: rotateY(-10deg); transform-style: preserve-3d; box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #11998e, #38ef7d);">
+    <h2>🏫 𝐸𝒹𝓊𝒸𝒶𝓉𝒾𝑜𝓃 𝒫𝑜𝓇𝓉𝒶𝓁</h2>
+    <p><b>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</b></p>
+    <br/>
+    <p>
+      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">React</span>
+      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">Node.js</span>
+      <span style="display: inline-block; margin: 5px; padding: 8px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; font-weight: bold;">MS SQL Server</span>
+    </p>
+  </div>
 </div>
 
-## 💫 Featured Projects
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
-  <h3>🎨 CSS Animation Library</h3>
-  
-  <a href="https://snowsfe.github.io/by-Snoer/" target="_blank"><strong>누구나 사용할 수 있는 CSS Animation 효과! - by_Snoer</strong></a>
-  
-  <p>다양한 웹 애니메이션 효과를 모아놓은 오픈 갤러리입니다. 웹 디자인에 생동감을 더해보세요.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
-  <h3>🏫 교육원 관리 시스템</h3>
-  
-  <p><strong>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</strong></p>
-  
-  <p>기술 스택:</p>
-  <ul>
-    <li>⚛️ React - 모던 UI 컴포넌트</li>
-    <li>🟢 Node.js - 백엔드 API 서비스</li>
-    <li>🛢️ MS SQL Server - 데이터베이스</li>
-  </ul>
-</div>
 <br/>
 
 ## 🧠 학습 중인 기술
