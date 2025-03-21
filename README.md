@@ -92,8 +92,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <div align="center">
   <img src="https://img.shields.io/badge/📘_개발_프로젝트_기록-2025-3498db?style=for-the-badge" alt="Development Projects"/>
-</div>
-
 <table>
   <tr>
     <td width="50%">
@@ -123,6 +121,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
