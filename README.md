@@ -88,21 +88,67 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
-## 🌟 주요 프로젝트
-
-<div style="display: inline-block; width: 100%; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
-  <h3>🎨 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">CSS Animation 갤러리</a></h3>
-  <p>누구나 사용할 수 있는 CSS Animation 효과! - by_Snoer</p>
+<div align="center">
+  <h1><span style="animation: rainbow 2s ease-in-out infinite;">🚀 특별한 프로젝트</span></h1>
 </div>
 
-<div style="display: inline-block; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; border-radius: 8px; background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);">
+<style>
+@keyframes rainbow {
+  0% { color: violet; }
+  15% { color: indigo; }
+  30% { color: blue; }
+  45% { color: green; }
+  60% { color: yellow; }
+  75% { color: orange; }
+  90% { color: red; }
+  100% { color: violet; }
+}
+
+.project-card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-left: 5px solid #0366d6;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.css-project {
+  border-left-color: #e361ff;
+}
+
+.edu-project {
+  border-left-color: #36d6b7;
+}
+
+.tech-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  margin: 3px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: bold;
+}
+</style>
+
+<div class="project-card css-project">
+  <h3>🎨 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">누구나 사용할 수 있는 CSS Animation 효과! - by_Snoer</a></h3>
+  <p>웹사이트에 생동감을 불어넣는 다양한 CSS 애니메이션 컬렉션</p>
+</div>
+
+<div class="project-card edu-project">
   <h3>🏫 교육원 관리 시스템</h3>
   <p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-  <p>
-    <span style="background-color: #61DAFB; color: black; padding: 3px 6px; border-radius: 3px; font-size: 12px;">React</span>
-    <span style="background-color: #339933; color: white; padding: 3px 6px; border-radius: 3px; font-size: 12px;">Node.js</span>
-    <span style="background-color: #CC2927; color: white; padding: 3px 6px; border-radius: 3px; font-size: 12px;">MS SQL Server</span>
-  </p>
+  <div>
+    <span class="tech-badge" style="background-color: #61DAFB; color: black;">React</span>
+    <span class="tech-badge" style="background-color: #339933; color: white;">Node.js</span>
+    <span class="tech-badge" style="background-color: #CC2927; color: white;">MS SQL Server</span>
+  </div>
 </div>
 
 <br/>
