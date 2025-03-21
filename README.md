@@ -90,12 +90,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 # ✨ 2025 개발 일지 ✨
 
-<div align="center">
-  
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-</div>
-
 ## 🎨 CSS 애니메이션 라이브러리
 
 <div align="center">
@@ -105,7 +99,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 > *"누구나 쉽게 활용할 수 있는 CSS 애니메이션!"*
 
 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-갤러리_바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
 </a>
 
 </div>
