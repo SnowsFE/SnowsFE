@@ -90,24 +90,50 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <div align="center">
 
-## 🌈 포트폴리오 하이라이트
+# 🌠 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝚂𝙷𝙾𝚆𝙲𝙰𝚂𝙴 🌠
+
+<div align="center">
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
 
-<details>
-<summary><h3>🎨 <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">CSS Animation 갤러리 - by_Snoer</a></h3></summary>
-<blockquote>
-누구나 쉽게 사용할 수 있는 다양한 CSS 애니메이션 효과 모음집입니다.
-</blockquote>
-</details>
+<table>
+<tr>
+<td>
 
-<details>
-<summary><h3>🏫 교육원 통합 관리 시스템</h3></summary>
-<blockquote>
-<p>교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트</p>
-</blockquote>
-</details>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝐂𝐒𝐒 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐛
 
+<div align="center">
+<a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8_by__Snoer-Visit_Gallery-FF00FF?style=for-the-badge" alt="Visit Gallery" />
+</a>
+</div>
+
+> *누구나 사용할 수 있는 CSS Animation 컬렉션*
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="30"> 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐫𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦
+
+<div align="center">
+
+![React](https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/🟢_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/🛢️_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
+
+> *교육원 웹사이트 리뉴얼 및 관리자 페이지 개선 프로젝트*
+
+</td>
+</tr>
+
+</table>
 <br/>
 
 ## 🧠 학습 중인 기술
