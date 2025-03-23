@@ -6,6 +6,77 @@
 
 </div>
 
+## 1. 기본 스타일 (hits)
+```markdown
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername%2Frepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+```
+
+## 2. 플랫 스타일 (hits)
+```markdown
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername%2Frepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+```
+
+## 3. 미니멀 스타일 (visitor-badge)
+```markdown
+![visitors](https://visitor-badge.glitch.me/badge?page_id=username.repo)
+```
+
+## 4. 프로필 조회수 (komarev)
+```markdown
+![](https://komarev.com/ghpvc/?username=username&color=blue)
+```
+
+## 5. 프로필 조회수 - 플랫 스퀘어 (komarev)
+```markdown
+![](https://komarev.com/ghpvc/?username=username&color=blue&style=flat-square)
+```
+
+## 6. 프로필 조회수 - 색상 변경 (komarev)
+```markdown
+![](https://komarev.com/ghpvc/?username=username&color=green&style=for-the-badge)
+```
+
+## 7. 라벨 텍스트 변경 (komarev)
+```markdown
+![](https://komarev.com/ghpvc/?username=username&label=PROFILE+VIEWS)
+```
+
+## 8. 심플 뱃지 (gpvc)
+```markdown
+![Profile views](https://gpvc.arturio.dev/username)
+```
+
+## 9. 쉴드 배지 스타일 (shields.io)
+```markdown
+![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
+```
+
+## 10. 그라디언트 스타일 (custom shields.io)
+```markdown
+![Views](https://img.shields.io/badge/Views-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+```
+
+## 11. 에니메이션 스타일
+```markdown
+
+```
+
+## 12. 뷰카운터 (페이지별)
+```markdown
+![ViewCount](https://views.whatilearened.today/views/github/username/repo.svg)
+```
+
+## 13. 커스텀 아이콘 조회수
+```markdown
+![](https://komarev.com/ghpvc/?username=username&color=brightgreen&style=flat-square&label=%F0%9F%91%80%20VIEWS)
+```
+
+## 14. 방문자 + 팔로워 콤보
+```markdown
+![](https://visitor-badge.glitch.me/badge?page_id=username.username)
+![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+```
+
 <br/>
 
 ## 👨‍💻 개발자 소개
