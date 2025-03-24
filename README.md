@@ -7,29 +7,19 @@
 </div>
 
 ## 1. 회전 카운터 스타일
-```
 ![회전 카운터](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo&left_color=222222&right_color=ff5722&left_text=방문자&right_text=조회수)
-```
 
 ## 2. 펄스 효과 스타일
-```
 ![펄스 효과](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo&count_bg=%238E44AD&title_bg=%238E44AD&icon=&icon_color=%23FFFFFF&title=조회&edge_flat=false)
-```
 
 ## 3. 미니멀 스타일
-```
 ![미니멀 스타일](https://komarev.com/ghpvc/?username=your-username&label=👁️%20방문자&style=flat-square&color=lightgrey)
-```
 
 ## 4. 디지털 카운터 스타일
-```
 ![디지털 카운터](https://profile-counter.glitch.me/your-username/count.svg)
-```
 
 ## 5. 어두운 테마 스타일
-```
 ![어두운 테마](https://visitcount.itsvg.in/api?id=your-username&label=🔍%20조회수&color=1&icon=5&pretty=true)
-```
 
 <br/>
 
