@@ -6,75 +6,29 @@
 
 </div>
 
-## 1. 기본 스타일 (hits)
-```markdown
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername%2Frepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 1. 회전 카운터 스타일
+```
+![회전 카운터](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo&left_color=222222&right_color=ff5722&left_text=방문자&right_text=조회수)
 ```
 
-## 2. 플랫 스타일 (hits)
-```markdown
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername%2Frepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+## 2. 펄스 효과 스타일
+```
+![펄스 효과](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo&count_bg=%238E44AD&title_bg=%238E44AD&icon=&icon_color=%23FFFFFF&title=조회&edge_flat=false)
 ```
 
-## 3. 미니멀 스타일 (visitor-badge)
-```markdown
-![visitors](https://visitor-badge.glitch.me/badge?page_id=username.repo)
+## 3. 미니멀 스타일
+```
+![미니멀 스타일](https://komarev.com/ghpvc/?username=your-username&label=👁️%20방문자&style=flat-square&color=lightgrey)
 ```
 
-## 4. 프로필 조회수 (komarev)
-```markdown
-![](https://komarev.com/ghpvc/?username=username&color=blue)
+## 4. 디지털 카운터 스타일
+```
+![디지털 카운터](https://profile-counter.glitch.me/your-username/count.svg)
 ```
 
-## 5. 프로필 조회수 - 플랫 스퀘어 (komarev)
-```markdown
-![](https://komarev.com/ghpvc/?username=username&color=blue&style=flat-square)
+## 5. 어두운 테마 스타일
 ```
-
-## 6. 프로필 조회수 - 색상 변경 (komarev)
-```markdown
-![](https://komarev.com/ghpvc/?username=username&color=green&style=for-the-badge)
-```
-
-## 7. 라벨 텍스트 변경 (komarev)
-```markdown
-![](https://komarev.com/ghpvc/?username=username&label=PROFILE+VIEWS)
-```
-
-## 8. 심플 뱃지 (gpvc)
-```markdown
-![Profile views](https://gpvc.arturio.dev/username)
-```
-
-## 9. 쉴드 배지 스타일 (shields.io)
-```markdown
-![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
-```
-
-## 10. 그라디언트 스타일 (custom shields.io)
-```markdown
-![Views](https://img.shields.io/badge/Views-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-```
-
-## 11. 에니메이션 스타일
-```markdown
-
-```
-
-## 12. 뷰카운터 (페이지별)
-```markdown
-![ViewCount](https://views.whatilearened.today/views/github/username/repo.svg)
-```
-
-## 13. 커스텀 아이콘 조회수
-```markdown
-![](https://komarev.com/ghpvc/?username=username&color=brightgreen&style=flat-square&label=%F0%9F%91%80%20VIEWS)
-```
-
-## 14. 방문자 + 팔로워 콤보
-```markdown
-![](https://visitor-badge.glitch.me/badge?page_id=username.username)
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+![어두운 테마](https://visitcount.itsvg.in/api?id=your-username&label=🔍%20조회수&color=1&icon=5&pretty=true)
 ```
 
 <br/>
