@@ -7,6 +7,30 @@
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 </div>
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>🌨️ SnowsFE</h1>
+    </td>
+    <td align="right">
+      <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
+    </td>
+  </tr>
+</table>
+
+> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
+
+<div align="center">
+  <h1 align="center">
+    🌨️ SnowsFE
+  </h1>
+  <div align="right">
+    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
+  </div>
+  
+> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
+</div>
+
 <br/>
 
 ## 👨‍💻 개발자 소개
