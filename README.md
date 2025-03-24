@@ -1,12 +1,9 @@
 <div align="center">
-  <small>
-    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
-    <span style="font-size: 10px;">🍄 방문자 수 🍄</span>
-  </small>
-
-<div align="center">
   
-# 🌨️ SnowsFE
+# 🌨️ SnowsFE <div align="center">
+  <small>
+    <span style="font-size: 10px;">🍄 방문자 수 🍄 <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" /> </span>
+  </small>
 
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 
