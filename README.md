@@ -6,34 +6,16 @@
 
 </div>
 
-### 3. 애니메이션 효과 배지와 함께 사용하기
-<div align="center">
-  <div style="background-color: #000; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 auto;">
-    <img src="https://img.shields.io/badge/DIGITAL-COUNTER-success?style=for-the-badge&logo=counter-strike&logoColor=white" alt="디지털 카운터" /><br>
-    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
-  </div>
-</div>
-
 ### 4. 다른 디지털 스타일 카운터 (레트로 스타일)
 ![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule34)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=asoul)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=moebooru)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=gelbooru)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule33)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule32)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule31)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule30)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule29)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule28)
 
-### 5. 레트로 게임 스타일 프레임 (고급)
 <div align="center">
-  <table style="border: 5px solid #00ff00; background-color: #000000; border-radius: 10px;">
+  <table style="border: 4px solid #ff0000; background-color: #5080ff; border-radius: 8px;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="font-family: 'Press Start 2P', cursive; color: #00ff00; margin-bottom: 5px; font-size: 18px;">PLAYER VISITS</div>
+      <td align="center" style="padding: 12px;">
+        <div style="font-family: 'Press Start 2P', cursive; color: #ffff00; margin-bottom: 8px; font-size: 16px;">🍄 SUPER MARIO 🍄</div>
         <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
-        <div style="font-family: monospace; color: #00ff00; margin-top: 5px; font-size: 12px;">INSERT COIN TO CONTINUE</div>
+        <div style="font-family: monospace; color: #ffff00; margin-top: 8px; font-size: 12px;">COINS COLLECTED</div>
       </td>
     </tr>
   </table>
