@@ -6,29 +6,6 @@
 
 </div>
 
-## 향상된 디지털 카운터 스타일
-
-### 1. 기본 디지털 카운터에 배경 및 스타일 추가
-<div align="center">
-  <a href="https://github.com/your-username/your-repo">
-    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" 
-         style="background-color: black; padding: 10px; border-radius: 5px; border: 2px solid #0f0;" />
-  </a>
-</div>
-
-### 2. HTML 요소로 감싸서 꾸미기
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background-color:#000000; padding:10px; border-radius:10px">
-        <div style="font-family: monospace; font-size: 24px; color: #00ff00; margin-bottom: 5px;">👾 VISITORS 👾</div>
-        <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
-        <div style="font-family: monospace; font-size: 12px; color: #00ff00; margin-top: 5px;">DIGITAL COUNTER</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 3. 애니메이션 효과 배지와 함께 사용하기
 <div align="center">
   <div style="background-color: #000; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 auto;">
@@ -39,6 +16,15 @@
 
 ### 4. 다른 디지털 스타일 카운터 (레트로 스타일)
 ![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule34)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=asoul)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=moebooru)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=gelbooru)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule33)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule32)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule31)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule30)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule29)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule28)
 
 ### 5. 레트로 게임 스타일 프레임 (고급)
 <div align="center">
