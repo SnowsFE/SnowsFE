@@ -1,26 +1,4 @@
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: 0 auto;">
-    <h1 style="margin: 0;">🌨️ SnowsFE</h1>
-    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
-  </div>
-  
-> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h1>🌨️ SnowsFE</h1>
-    </td>
-    <td align="right">
-      <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
-    </td>
-  </tr>
-</table>
-
-> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
-
-<div align="center">
   <h1 align="center">
     🌨️ SnowsFE
   </h1>
@@ -29,6 +7,30 @@
   </div>
   
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <h1>☁️ SnowsFE <span style="position: absolute; right: 20px;"><img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" /></span></h1>
+  </div>
+  
+  > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
+</div>
+
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h1>☁️ SnowsFE</h1>
+      </td>
+      <td align="right">
+        <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
+      </td>
+    </tr>
+  </table>
+  
+  > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 </div>
 
 <br/>
