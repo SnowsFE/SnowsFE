@@ -21,10 +21,11 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center">
+      <td width="20%"></td>
+      <td align="center" width="60%">
         <h1>☁️ SnowsFE</h1>
       </td>
-      <td align="right">
+      <td align="right" width="20%">
         <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
       </td>
     </tr>
