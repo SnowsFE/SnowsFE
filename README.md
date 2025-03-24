@@ -1,24 +1,15 @@
 <div align="center">
+  <small>
+    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
+    <span style="font-size: 10px;">🍄 방문자 수 🍄</span>
+  </small>
+
+<div align="center">
   
 # 🌨️ SnowsFE
 
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
 
-</div>
-
-### 4. 다른 디지털 스타일 카운터 (레트로 스타일)
-![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule34)
-
-<div align="center">
-  <table style="border: 4px solid #ff0000; background-color: #5080ff; border-radius: 8px;">
-    <tr>
-      <td align="center" style="padding: 12px;">
-        <div style="font-family: 'Press Start 2P', cursive; color: #ffff00; margin-bottom: 8px; font-size: 16px;">🍄 SUPER MARIO 🍄</div>
-        <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
-        <div style="font-family: monospace; color: #ffff00; margin-top: 8px; font-size: 12px;">COINS COLLECTED</div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
