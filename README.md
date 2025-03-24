@@ -6,20 +6,52 @@
 
 </div>
 
-## 1. 회전 카운터 스타일
-![회전 카운터](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo&left_color=222222&right_color=ff5722&left_text=방문자&right_text=조회수)
+## 향상된 디지털 카운터 스타일
 
-## 2. 펄스 효과 스타일
-![펄스 효과](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo&count_bg=%238E44AD&title_bg=%238E44AD&icon=&icon_color=%23FFFFFF&title=조회&edge_flat=false)
+### 1. 기본 디지털 카운터에 배경 및 스타일 추가
+<div align="center">
+  <a href="https://github.com/your-username/your-repo">
+    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" 
+         style="background-color: black; padding: 10px; border-radius: 5px; border: 2px solid #0f0;" />
+  </a>
+</div>
 
-## 3. 미니멀 스타일
-![미니멀 스타일](https://komarev.com/ghpvc/?username=your-username&label=👁️%20방문자&style=flat-square&color=lightgrey)
+### 2. HTML 요소로 감싸서 꾸미기
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background-color:#000000; padding:10px; border-radius:10px">
+        <div style="font-family: monospace; font-size: 24px; color: #00ff00; margin-bottom: 5px;">👾 VISITORS 👾</div>
+        <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
+        <div style="font-family: monospace; font-size: 12px; color: #00ff00; margin-top: 5px;">DIGITAL COUNTER</div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 4. 디지털 카운터 스타일
-![디지털 카운터](https://profile-counter.glitch.me/your-username/count.svg)
+### 3. 애니메이션 효과 배지와 함께 사용하기
+<div align="center">
+  <div style="background-color: #000; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 auto;">
+    <img src="https://img.shields.io/badge/DIGITAL-COUNTER-success?style=for-the-badge&logo=counter-strike&logoColor=white" alt="디지털 카운터" /><br>
+    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
+  </div>
+</div>
 
-## 5. 어두운 테마 스타일
-![어두운 테마](https://visitcount.itsvg.in/api?id=your-username&label=🔍%20조회수&color=1&icon=5&pretty=true)
+### 4. 다른 디지털 스타일 카운터 (레트로 스타일)
+![디지털 카운터](https://count.getloli.com/get/@your-username?theme=rule34)
+
+### 5. 레트로 게임 스타일 프레임 (고급)
+<div align="center">
+  <table style="border: 5px solid #00ff00; background-color: #000000; border-radius: 10px;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="font-family: 'Press Start 2P', cursive; color: #00ff00; margin-bottom: 5px; font-size: 18px;">PLAYER VISITS</div>
+        <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" />
+        <div style="font-family: monospace; color: #00ff00; margin-top: 5px; font-size: 12px;">INSERT COIN TO CONTINUE</div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
