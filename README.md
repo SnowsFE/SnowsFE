@@ -78,6 +78,10 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <br>My SQL
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Microsoft_SQL_Server_logo_2019.svg/800px-Microsoft_SQL_Server_logo_2019.svg.png" width="48" height="48" alt="MS SQL" />
+      <br>MS SQL
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       <br>GCP
     </td>
