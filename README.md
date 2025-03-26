@@ -128,7 +128,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
         <img src="https://img.shields.io/badge/🔵_Classic_ASP-003B57?style=for-the-badge&logo=microsoft&logoColor=white" alt="Classic ASP"/>
       </p>
       <p align="right">
-        <code>#웹개발</code> <code>#데이터베이스</code> <code>#시스템개선</code>
+        <code>#웹개발</code> <code>#쿼리튜닝</code> <code>#시스템개선</code>
       </p>
     </td>
   </tr>
