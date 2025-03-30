@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    🌨️ SnowsFE || Snoer
+    🌨️ Snoer || SnowsFE
   </h1>
   <div align="right">
     <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="방문자 수" height="20" />
