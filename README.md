@@ -114,7 +114,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
         <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
           <img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
         </a>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=🌟%20방문자&query=value&url=https://api.countapi.xyz/hit/snowsfe.github.io/by-Snoer&color=FFD700" alt="Visitors Count" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=snowsfe.by-Snoer&left_color=%23555555&right_color=%23FFD700&left_text=🌟%20방문자" alt="Visitors Count"/>
       </p>
       <p align="right">
         <code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
