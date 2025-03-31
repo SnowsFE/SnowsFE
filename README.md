@@ -10,9 +10,7 @@
 </div>
 
 <br/>
-<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=flat&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
-<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=flat-square&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
-<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=plastic&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
+
 ## 👨‍💻 개발자 소개
 
 안녕하세요!  
@@ -113,7 +111,7 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <p align="center"><b>by-Snoer</b></p>
       <p align="center"><i>"누구나 쉽게 활용할 수 있는 CSS 애니메이션!"</i></p>
       <p align="center">
-          <img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total-count&style=for-the-badge&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
+          <img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=flat&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
           <br/>
         <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
           <img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
