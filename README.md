@@ -118,9 +118,10 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <p align="right">
         <code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
       </p>
-              <p align="center">
-          <img src="https://img.shields.io/github/stars/snowsfe/by-Snoer?style=social" alt="GitHub Stars" />
-        </p>
+                    <p align="center">
+                      <img src="https://www.hitwebcounter.com/counter/counter.php?page=snowsfe&style=0001&nbdigits=5&type=page&initCount=0" alt="visitor counter" />
+                      <img src="https://img.shields.io/badge/⭐_황금별-FFD700?style=for-the-badge" alt="Golden Star" />
+                    </p>
     </td>
     <td width="50%">
       <h3 align="center">🎓 교육 포털 시스템</h3>
