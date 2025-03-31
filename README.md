@@ -10,7 +10,9 @@
 </div>
 
 <br/>
-
+<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=flat&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
+<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=flat-square&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
+<img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total&style=plastic&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
 ## 👨‍💻 개발자 소개
 
 안녕하세요!  
