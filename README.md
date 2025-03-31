@@ -114,8 +114,8 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
         <a href="https://snowsfe.github.io/by-Snoer/" target="_blank">
           <img src="https://img.shields.io/badge/%F0%9F%8C%88_by--Snoer-바로가기-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Visit Gallery" />
         </a>
-          <img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=today-total&style=for-the-badge&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
-        <img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total-count&style=for-the-badge&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
+        <br/>
+          <img src="https://hits.sh/snowsfe.github.io/by-Snoer.svg?view=total-count&style=for-the-badge&label=%F0%9F%8C%9F%20%EB%B0%A9%EB%AC%B8%EC%9E%90&color=FFD700" alt="Visitors Count" />
       </p>
       <p align="right">
         <code>#애니메이션</code> <code>#CSS</code> <code>#웹디자인</code>
