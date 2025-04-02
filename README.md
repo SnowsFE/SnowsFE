@@ -151,8 +151,8 @@ mindmap
       ErrorBoundary
     UI/UX
       Chakra UI
-      Framer Motion
       Tailwind CSS
+      Framer Motion
     백엔드 스킬
       Classic ASP in JS
       쿼리 튜닝
