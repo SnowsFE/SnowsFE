@@ -158,6 +158,7 @@ mindmap
       쿼리 튜닝
         MSSQL
         MySQL
+        CTE
     API 개발
       취업정보센터
       포트폴리오
