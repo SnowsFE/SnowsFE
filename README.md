@@ -159,6 +159,7 @@ mindmap
         MSSQL
         MySQL
         CTE
+        캐싱
     API 개발
       취업정보센터
       포트폴리오
