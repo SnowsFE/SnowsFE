@@ -157,6 +157,7 @@ mindmap
       Classic ASP in JS
       JAVA
       SpringBoot
+      JPA
       쿼리 튜닝
         MSSQL
         MySQL
