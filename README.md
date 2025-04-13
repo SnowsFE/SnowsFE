@@ -156,8 +156,8 @@ mindmap
     백엔드 스킬
       Classic ASP in JS
       JAVA
-      SpringBoot
       JPA
+      SpringBoot
       쿼리 튜닝
         MSSQL
         MySQL
