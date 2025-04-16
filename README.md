@@ -155,8 +155,8 @@ mindmap
       Framer Motion
     백엔드 스킬
       Classic ASP in JS
-      JAVA
       SpringBoot
+      JAVA
       JPA
       쿼리 튜닝
         MSSQL
