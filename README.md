@@ -161,7 +161,6 @@ mindmap
       쿼리 튜닝
         MSSQL
         MySQL
-        CTE
         캐싱
     API 개발
       포트폴리오
