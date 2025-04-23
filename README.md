@@ -160,7 +160,6 @@ mindmap
       JPA
       쿼리 튜닝
         MSSQL
-          집중 SQL 공부 기간
         MySQL
         캐싱
     API 개발
