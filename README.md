@@ -52,17 +52,17 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Spring Boot" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
-    </td>     
+    </td>    
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" />
-      <br>Cloudflare
-    </td>    
+    </td> 
   </tr>
   <tr>
     <td align="center" width="96">
