@@ -66,6 +66,10 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>    
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       <br>Nginx
     </td>
@@ -88,10 +92,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
-      <br>Ubuntu
     </td>
   </tr>
 </table>
