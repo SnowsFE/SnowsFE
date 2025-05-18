@@ -161,9 +161,6 @@ mindmap
       쿼리 튜닝
         MSSQL
         MySQL
-    API 개발
-      포트폴리오
-      취업정보센터
 ```
 <br/>
 
