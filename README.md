@@ -139,6 +139,24 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 
 <br/>
 
+📜 자격증
+<br/>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
+      <br>정처기
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
+      <br>SQLD
+    </td>
+  </tr>
+</table>
+</div>
+<br/>
+
 ## 🧠 학습 중인 기술
 <br/>
 
