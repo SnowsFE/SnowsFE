@@ -63,6 +63,10 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       <br>SpringBoot
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
+      <br>정처기
+    </td>    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -93,6 +97,10 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       <br>GCP
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
+      <br>SQLD
+    </td>    
   </tr>
 </table>
 
@@ -137,24 +145,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
 </table>
 </div>
 
-<br/>
-
-## 📜 자격증
-<br/>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
-      <br>정처기
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
-      <br>SQLD
-    </td>
-  </tr>
-</table>
-</div>
 <br/>
 
 ## 🧠 학습 중인 기술
