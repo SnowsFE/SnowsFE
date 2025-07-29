@@ -3,7 +3,7 @@
     🌨️ Snoer || SnowsFE
   </h1>
   <div align="right">
-     <img src="https://komarev.com/ghpvc/?username=snoer&color=blue&style=plastic&label=👀+Views" alt="방문자 수" />
+     <img src="https://komarev.com/ghpvc/?username=snoer&color=brightgreen" alt="방문자 수" height="20" />
   </div>
   
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
