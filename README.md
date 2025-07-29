@@ -3,7 +3,7 @@
     🌨️ Snoer || SnowsFE
   </h1>
   <div align="right">
-    <img src="https://profile-counter.glitch.me/snoer/count.svg" alt="방문자 수" height="20" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsnoer&count_bg=%236C5CE7&title_bg=%232D3436&icon=&icon_color=%23E3E3E3&title=Profile+Views&edge_flat=false" alt="방문자 수" />
   </div>
   
 > *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
