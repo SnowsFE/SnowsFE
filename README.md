@@ -54,14 +54,6 @@ UX 최적화를 최우선으로 고려하며, 최신 기술 스택과 개발 패
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
-    </td>    
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      <br>SpringBoot
     </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
