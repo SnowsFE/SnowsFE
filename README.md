@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/🔥-9999-red?style=flat&logoColor=white" alt="방문자 수" height="18" />
   </div>
   
-> *"한 줄의 코드가 천 개의 픽셀보다 가치 있다"*
+> *"확장성있는 설계, 깔끔한 코드"*
 </div>
 
 <br/>
