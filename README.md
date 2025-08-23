@@ -57,10 +57,10 @@
       <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
       <br>정처기
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
       <br>SQLD
-    </td>    
+    </td>     -->
   </tr>
   <tr>
     <td align="center" width="96">
