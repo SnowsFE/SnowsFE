@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/🔥-9999-red?style=flat&logoColor=white" alt="방문자 수" height="18" />
   </div>
   
-> *"확장성있는 설계, 깔끔한 코드"*
+> *"빈틈없는 기획, 확장성있는 설계"*
 </div>
 
 <br/>
