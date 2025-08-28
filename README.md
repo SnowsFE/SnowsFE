@@ -54,9 +54,9 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" />
+      <img src="https://techstack-generator.vercel.app/prisma-icon.svg" width="48" height="48" alt="Prisma" />
       <br>Prisma
-    </td>    
+    </td> 
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
       <br>정처기
