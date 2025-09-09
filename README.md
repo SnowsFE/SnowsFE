@@ -14,7 +14,7 @@
 ## 👨‍💻 개발자 소개
 
 안녕하세요😊
-프론트엔드 개발을 기반으로 **백엔드 아키텍처, 네트워크 프로토콜**까지 <br/> 심층적으로 탐구하며, **풀스택 역량을 확장해 나가는 개발자**입니다 :)
+프론트엔드 개발을 기반으로 **백엔드 아키텍처, 네트워크 프로토콜**까지 심층적으로 탐구하며, **풀스택 역량을 확장해 나가는 개발자**입니다 :)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
