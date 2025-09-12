@@ -59,23 +59,11 @@
       <br>Prisma
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
-      <br>정처기
-    </td>
-<!--     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
-      <br>SQLD
-    </td>     -->
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
-      <br>Ubuntu
-    </td>    
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       <br>Nginx
-    </td>
+    </td>      
+  </tr>
+  <tr>   
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
       <br>REST API
@@ -96,6 +84,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       <br>GCP
     </td> 
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
+      <br>정처기
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="48" height="48" alt="SQLD" />
+      <br>SQLD
+    </td>      
   </tr>
 </table>
 
