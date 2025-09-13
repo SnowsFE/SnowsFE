@@ -15,7 +15,7 @@
 
 안녕하세요 😊  
 프론트엔드로 시작해 **백엔드 아키텍처와 네트워크 프로토콜까지 확장**하며 <br/>
-**사용자 중심의 서비스를 직접 설계·구현하는 경험**을 쌓고 있는 풀스택 개발자입니다. 
+**사용자 중심의 서비스를 직접 설계·구현하는** 풀스택 개발자입니다. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
