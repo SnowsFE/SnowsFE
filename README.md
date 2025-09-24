@@ -185,7 +185,6 @@ const contact = {
   phone: "010-8331-1930",
   social: {
     velog: "https://velog.io/@snowfe/posts",
-    youtube: "https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA"
   }
 };
 ```
