@@ -13,7 +13,7 @@
 
 ## 👨‍💻 개발자 소개
 
-안녕하세요😊 **사용자 중심의 서비스를 직접 설계·구현하는** 풀스택 개발자입니다
+안녕하세요😊 **사용자 중심의 서비스를 직접 설계·구현하는** 풀스택 개발자입니다.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
