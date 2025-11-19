@@ -65,11 +65,7 @@
       <br>Nginx
     </td>      
   </tr>
-  <tr>   
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
-      <br>REST API
-    </td>
+  <tr>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb" />
       <br>MongoDB
@@ -85,7 +81,11 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       <br>GCP
-    </td> 
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.kakaocorp.com/page/favicon.ico" width="48" height="48" alt="Kakao Cloud" />
+      <br>Kakao Cloud
+    </td>    
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
       <br>정처기
