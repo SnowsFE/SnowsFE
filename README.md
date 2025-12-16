@@ -37,10 +37,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -48,6 +44,10 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>    
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
       <br>Next.js
