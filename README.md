@@ -145,18 +145,15 @@
 
 ```mermaid
 mindmap
-  root((2025 스킬))
+  root((2026 스킬))
     React 심화
       Zustand
       React-Query
-      ErrorBoundary
-    UI/UX
-      Chakra UI
-      Tailwind CSS
-      Framer Motion
+    CS
     백엔드 스킬
       Classic ASP in JS
       Node.js
+      Prisma
       쿼리 튜닝
         MSSQL
         MySQL
