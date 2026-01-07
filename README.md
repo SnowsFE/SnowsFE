@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    🌨️ Snoer || SnowsFE
+    🌨️ Snoer
   </h1>
   <div align="right">
     <img src="https://img.shields.io/badge/🔥-9999-red?style=flat&logoColor=white" alt="방문자 수" height="18" />
