@@ -144,19 +144,26 @@
 <br/>
 
 ```mermaid
-mindmap
-  root((2026 스킬))
-    React 심화
-      Zustand
-      React-Query
-    CS
-    백엔드 스킬
-      Classic ASP in JS
-      Node.js
-      Prisma
-      쿼리 튜닝
-        MSSQL
-        MySQL
+  graph TD
+      User[User / Browser]
+  
+      User -->|Interaction| FE[Frontend<br/>React + TypeScript]
+      
+      FE -->|State| Zustand[Zustand Store]
+      FE -->|Data Fetch| RQ[React Query]
+      
+      FE -->|API Call| BE[Backend<br/>Node.js]
+      
+      BE --> Auth[Auth System<br/>JWT / Refresh Token]
+      BE --> Realtime[SSE / Event Stream]
+      BE --> ORM[Prisma ORM]
+      
+      ORM --> DB1[(MySQL)]
+      ORM --> DB2[(MSSQL)]
+      
+      BE --> Infra[Nginx / Cloud]
+      
+      Infra --> Deploy[GCP / Kakao Cloud]
 ```
 <br/>
 
