@@ -153,10 +153,10 @@
         <i>"자유 캔버스로 작업하고,<br/>정규화된 기준으로 평가받는 포트폴리오"</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/🟦_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/🟩_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/🟣_Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/_Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
       </p>
       <p align="right">
         <code>#캔버스에디터</code> <code>#성능최적화</code> <code>#풀스택</code>
@@ -269,7 +269,7 @@ mindmap
 
 ```mermaid
 graph TD
-    User[User / Browser]
+    User[Snoer]
 
     User -->|Interaction| FE[Frontend<br/>React + TypeScript]
 
