@@ -27,32 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
 </div>
 
-<!-- GitHub Stats 카드 - 로딩 실패 시 메시지 표시 -->
-<div align="center">
-  <a href="https://github.com/SnowsFE">
-    <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" 
-         alt="📊 Snoer's GitHub Stats (일시적으로 로딩 중입니다)" 
-         width="48%" />
-  </a>
-  <a href="https://github.com/SnowsFE">
-    <img src="https://streak-stats.demolab.com?user=SnowsFE&theme=radical&hide_border=true&cache_seconds=1800" 
-         alt="🔥 Snoer's GitHub Streak (일시적으로 로딩 중입니다)" 
-         width="48%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/SnowsFE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" 
-         alt="💻 Snoer's Most Used Languages (일시적으로 로딩 중입니다)" />
-  </a>
-</div>
-<!-- 대안: 정적 배지 (항상 작동) -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/SnowsFE?style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/SnowsFE?style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="GitHub Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=SnowsFE&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
-
 <br/>
 
 ## 🛠️ 기술 스택
