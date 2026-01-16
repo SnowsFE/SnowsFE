@@ -27,6 +27,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=SnowsFE&theme=radical" width="48%" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
+</div>
+
 <br/>
 
 ## 🛠️ 기술 스택
@@ -183,6 +191,7 @@
 </div>
 
 <br/>
+
 ## 🧠 스노어 기술 성장 맵
 <br/>
 
