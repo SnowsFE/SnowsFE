@@ -188,79 +188,35 @@
 
 ```mermaid
 mindmap
-  root((Snoer 2026 Skill Map))
-    프론트엔드
-      React
-        렌더링 최적화
-          RAF 기반 Live Override
-          최소 리렌더링 구조
-        상태관리
-          Zustand
-          전역/로컬 상태 분리
-        UI 아키텍처
-          Figma 스타일 캔버스
-          드래그 & 스냅 시스템
-      TypeScript
-        타입 안정성
-        복잡한 도메인 모델링
+  root((요즘 개발))
+    
+    React
+      성능
+        리렌더링 최소화
+        RAF 기반 Live Override
+        useRef 중심 실시간 처리
+      상태관리
+        Zustand
+        전역 / 로컬 상태 분리
+      UI
+        캔버스 인터랙션
+        드래그 / 리사이즈
+        스냅 가이드
 
-    백엔드
+    Backend
       Node.js
         API 설계
-        인증/인가
-          JWT
-          Refresh Token
-          토큰 회전
-        실시간 처리
-          SSE
+        인증 구조
       Prisma
         스키마 설계
-        관계 모델링
-        Enum 중심 도메인 설계
 
-    데이터베이스
-      설계
-        정규화 (3NF)
-        인덱스 전략
-        복합 키
-      MySQL
-        쿼리 튜닝
-        실무 기준 SQL
-      MSSQL
-        운영 환경
-        Classic ASP 연동
+    Database
+      SQL 설계
+      쿼리 튜닝
 
-    시스템 & 인프라
-      Nginx
-        Reverse Proxy
-        정적/동적 분리
-      Docker
-        로컬 개발 환경
-      Cloud
-        GCP
-        Kakao Cloud
-
-    CS 기초
-      컴퓨터 구조
-      프로세스 / 스레드
-      메모리 구조
-      이벤트 루프
-
-    보안 관점
-      인증 설계
-      세션 vs 토큰
-      공격 벡터 인식
-        XSS
-        CSRF
-        인증 탈취
-
-    제품 관점
-      서비스 기획
-        기능 우선순위
-        확장성 고려
-      UX
-        사용자 흐름
-        퍼포먼스 체감
+    개발 감각
+      UX 체감 성능
+      구조 먼저 생각하기
 ```
 <br/>
 
@@ -269,25 +225,83 @@ mindmap
 
 ```mermaid
 graph TD
-    User[Snoer]
-
-    User -->|Interaction| FE[Frontend<br/>React + TypeScript]
-
-    FE -->|State| Zustand[Zustand Store]
-    FE -->|Data Fetch| RQ[React Query]
-
-    FE -->|API Call| BE[Backend<br/>Node.js]
-
-    BE --> Auth[Auth System<br/>JWT / Refresh Token]
-    BE --> Realtime[SSE / Event Stream]
-    BE --> ORM[Prisma ORM]
-
-    ORM --> DB1[(MySQL)]
-    ORM --> DB2[(MSSQL)]
-
-    BE --> Infra[Nginx / Cloud]
-
-    Infra --> Deploy[GCP / Kakao Cloud]
+    %% User & Cloud Layer
+    User[👤 Snoer / Test]
+    Cloud{☁️ Kakao Cloud<br/>Infrastructure}
+    
+    %% Frontend Flow
+    User -->|Interaction| UI[🎨 Canvas UI<br/>Drag · Resize · Select]
+    UI --> Live[⚡ Live Override<br/>RAF + useRef]
+    Live -->|Transform| DOM[🖼️ DOM Update]
+    UI -->|Interaction End| Commit[✅ Commit Changes]
+    Commit --> Store[📦 Zustand Store]
+    Store --> History[↩️ Undo / Redo Stack]
+    Store -->|Optimized| Render[🔄 Minimal Re-render]
+    
+    %% API Call
+    Store -->|HTTP Request| API[🌐 Backend API]
+    
+    %% Nginx Entry
+    Cloud -->|Host| Nginx[🔀 Nginx<br/>Reverse Proxy]
+    API --> Nginx
+    Nginx --> Router[🚏 Router Layer]
+    
+    %% Backend Layers
+    Router --> Auth{🔐 Auth Middleware<br/>JWT Verify}
+    Auth -->|✓ Valid| Controller[🎮 Controller]
+    Auth -->|✗ Invalid| Reject[❌ 401 Unauthorized]
+    
+    Controller --> Service[⚙️ Service Logic]
+    Service --> ORM[🗃️ Prisma ORM]
+    
+    %% Database
+    ORM --> DB[(💾 MySQL / MSSQL<br/>Persistent Layer)]
+    
+    %% Error Handling
+    Controller -->|Try-Catch| ErrHandler[⚠️ Error Handler]
+    Service -->|Business Error| ErrHandler
+    ORM -->|DB Error| ErrHandler
+    ErrHandler -->|Formatted Error| Nginx
+    
+    %% Shared Resources
+    Service -.->|Use| Utils[🛠️ Utils / Helpers]
+    Service -.->|Import| Types[📝 Shared Types<br/>Cross-layer]
+    Controller -.->|Import| Types
+    
+    %% Auth System (Separate Flow)
+    AuthService[🔑 Auth Service]
+    AuthService -->|Issue Token| TokenGen[🎫 JWT + Refresh Token]
+    AuthService --> ORM
+    Controller -->|Login/Refresh| AuthService
+    
+    %% Response Flow
+    DB -.->|Query Result| ORM
+    ORM -.->|Data| Service
+    Service -.->|Business Data| Controller
+    Controller -.->|JSON Response| Nginx
+    Nginx -.->|HTTP Response| Store
+    Store -.->|Update UI| Render
+    
+    %% SSE Flow
+    Service -->|Event Stream| SSE[📡 SSE Connection]
+    SSE -.->|Real-time Update| Store
+    
+    %% Styling
+    classDef frontend fill:#61DAFB,stroke:#282c34,stroke-width:2px,color:#000
+    classDef backend fill:#68A063,stroke:#333,stroke-width:2px,color:#fff
+    classDef infra fill:#F05032,stroke:#333,stroke-width:2px,color:#fff
+    classDef db fill:#4479A1,stroke:#333,stroke-width:2px,color:#fff
+    classDef auth fill:#000,stroke:#fb015b,stroke-width:3px,color:#fff
+    classDef util fill:#888,stroke:#333,stroke-width:1px,color:#fff
+    classDef error fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+    
+    class UI,Live,DOM,Commit,Store,History,Render frontend
+    class Router,Controller,Service,ORM backend
+    class Nginx,Cloud infra
+    class DB db
+    class Auth,AuthService,TokenGen auth
+    class Utils,Types,SSE util
+    class ErrHandler,Reject error
 ```
 <br/>
 
