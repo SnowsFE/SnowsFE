@@ -27,14 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=SnowsFE&theme=radical" width="48%" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
-</div>
-
 <br/>
 
 ## 🛠️ 기술 스택
@@ -177,10 +169,10 @@
         <i>"보안·확장성·운영을 고려한<br/>인증 및 데이터 흐름 설계"</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🔑_JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/_JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
         <img src="https://img.shields.io/badge/🔁_Refresh_Token-555555?style=for-the-badge" alt="Refresh Token"/>
         <img src="https://img.shields.io/badge/📡_SSE-0A66C2?style=for-the-badge" alt="SSE"/>
-        <img src="https://img.shields.io/badge/🗄️_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       </p>
       <p align="right">
         <code>#인증설계</code> <code>#보안</code> <code>#백엔드</code>
