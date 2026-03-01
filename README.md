@@ -13,6 +13,20 @@
 
 ## 👨‍💻 개발자 소개
 
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical">
+
+<div>
+  <h1>Hi there, I'm SnowsFE 👋</h1>
+  <p><b>웹서비스를 직접 설계·구현하는 풀스택 개발자</b>입니다!</p>
+  <p>
+    설계부터 데이터베이스 모델링, 백엔드 API, 프론트엔드 UI/UX, <br>
+    그리고 배포까지 서비스 전 과정을 스스로 구현합니다. 🎯
+  </p>
+  <p>사용자 경험과 보안을 최우선으로 고려하며 최적의 솔루션을 고민합니다.</p>
+</div>
+
+<br clear="right" />
+
 <table width="100%">
   <tr>
     <td width="60%" style="vertical-align: top;">
