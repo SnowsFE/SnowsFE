@@ -13,19 +13,28 @@
 
 ## 👨‍💻 개발자 소개
 
-<table width="100%">
-  <tr>
-    <td width="60%" style="vertical-align: top;">
-      <h2>안녕하세요! 😊</h2>
-      <p><b>웹서비스를 직접 설계·구현하는 풀스택 개발자</b>입니다!</p>
-      <p>설계 → 데이터베이스 모델링 → 백엔드 API → 프론트엔드 UI/UX → 배포까지<br>
-      <b>서비스 전 과정을 스스로 구현</b>하며 사용자 경험과 보안을 동시에 고려합니다🎯</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="left" width="600">
+        <h1>Hi there, I'm SnowsFE 👋</h1>
+        <p><b>웹서비스를 직접 설계·구현하는 풀스택 개발자</b>입니다!</p>
+        <p>
+          설계부터 배포까지, 서비스 전 과정을 스스로 구현하며<br>
+          사용자 경험과 보안을 동시에 고려하는 <b>올라운더</b>를 지향합니다.
+        </p>
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+      </td>
+      <td align="right" width="400">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
