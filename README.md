@@ -20,11 +20,7 @@
 **서비스 전 과정을 스스로 구현**하며 사용자 경험과 보안을 동시에 고려합니다🎯
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnowsFE&theme=radical&show_icons=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsFE&theme=radical&layout=compact" />
 </div>
 
 <br/>
