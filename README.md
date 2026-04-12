@@ -79,9 +79,9 @@
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://www.kakaocorp.com/page/favicon.ico" width="48" height="48" alt="Kakao Cloud" />
-      <br>Kakao Cloud
-    </td>    
+      <img src="https://www.oracle.com/favicon.ico" width="48" height="48" alt="Oracle Cloud" />
+      <br>Oracle Cloud
+    </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/certificate.png" width="48" height="48" alt="정처기" />
       <br>정처기
