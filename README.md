@@ -79,7 +79,7 @@
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://www.oracle.com/favicon.ico" width="48" height="48" alt="Oracle Cloud" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Cloud" />
       <br>Oracle Cloud
     </td>
     <td align="center" width="96">
