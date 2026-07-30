@@ -19,10 +19,6 @@
 **설계 → 데이터베이스 모델링 → 백엔드 API → 프론트엔드 UI/UX → 배포**까지 <br>
 **서비스 전 과정을 스스로 구현**하며 사용자 경험과 보안을 동시에 고려합니다🎯
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowsFE&theme=radical" width="48%" />
-</div>
-
 <br/>
 
 ## 🛠️ 기술 스택
